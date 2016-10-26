@@ -1,22 +1,22 @@
 [00:00:00]: PersistRootStorage is now /Users/dmarconi/Documents/Klei//DoNotStarveTogether/MyDediServer/Master/ 
 [00:00:00]: Starting Up
-[00:00:00]: Version: 194314
-[00:00:00]: Current time: Tue Oct 25 16:01:14 2016
+[00:00:00]: Version: 194420
+[00:00:00]: Current time: Wed Oct 26 15:15:55 2016
 
-[00:00:00]: Don't Starve Together: 194314 OSX
-[00:00:00]: Build Date: 1295
+[00:00:00]: Don't Starve Together: 194420 OSX
+[00:00:00]: Build Date: 1298
 [00:00:00]: Parsing command line
-[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -monitor_parent_process 1953 -shard Master 
+[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -monitor_parent_process 694 -shard Master 
 [00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
 [00:00:00]: Initializing distribution platform
 [00:00:00]: ....Done
-[00:00:00]: THREAD - started 'GAClient' (2962694144)
+[00:00:00]: THREAD - started 'GAClient' (2962862080)
 [00:00:00]: CurlRequestManager::ClientThread::Main()
-[00:00:00]: ProfileIndex:3.90
+[00:00:00]: ProfileIndex:4.76
 [00:00:00]: [Connect] PendingConnection::Reset(true)
 [00:00:00]: Network tick rate: U=15(2), D=0
 [00:00:00]: Network tick rate: U=15(2), D=0
-[00:00:00]: THREAD - started 'ConsoleInput' (2964799488)
+[00:00:00]: THREAD - started 'ConsoleInput' (2964967424)
 [00:00:00]: OnLoadPermissionList: /Users/dmarconi/Documents/Klei//DoNotStarveTogether/MyDediServer/blocklist.txt (Failure)
 [00:00:00]: OnLoadPermissionList: /Users/dmarconi/Documents/Klei//DoNotStarveTogether/MyDediServer/adminlist.txt (Failure)
 [00:00:00]: OnLoadUserIdList: /Users/dmarconi/Documents/Klei//DoNotStarveTogether/MyDediServer/whitelist.txt (Failure)
@@ -39,7 +39,7 @@
 [00:00:00]: ModIndex: Beginning normal load sequence for dedicated server.
 	
 [00:00:00]: DownloadMods(0)
-[00:00:00]: FMOD Error: An invalid object handle was used. 
+[00:00:01]: FMOD Error: An invalid object handle was used. 
 [00:00:01]: LOADING LUA SUCCESS
 [00:00:01]: PlayerDeaths could not load morgue	
 [00:00:01]: PlayerHistory could not load player_history	
@@ -109,9 +109,9 @@
 [00:00:07]: AddPortMapping(11000, 11000, 192.168.178.28) failed with code 403 (UnknownError)
 [00:00:07]: AddPortMapping(11000, 11000, 192.168.178.28) failed with code 403 (UnknownError)
 [00:00:08]: 	LOAD BE: done	
-[00:00:08]: Loading world: session/C7D99822C7ECDF3D/0000000005	
+[00:00:08]: Loading world: session/91692E342BE072D7/0000000003	
 [00:00:08]: Save file is at version 4.3	
-[00:00:08]: Begin Session: C7D99822C7ECDF3D
+[00:00:08]: Begin Session: 91692E342BE072D7
 [00:00:08]: saving to server_temp/server_save	
 [00:00:08]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
 [00:00:09]: Loading Nav Grid	
@@ -119,7 +119,7 @@
 [00:00:09]: setting 	isnightmaredawn	false	
 [00:00:09]: setting 	elapseddaysinseason	0	
 [00:00:09]: setting 	isfullmoon	false	
-[00:00:09]: setting 	moisture	0.08333333581686	
+[00:00:09]: setting 	moisture	0.033333335071802	
 [00:00:09]: setting 	springlength	20	
 [00:00:09]: setting 	isnightmarewild	false	
 [00:00:09]: setting 	moonphase	new	
@@ -131,12 +131,12 @@
 [00:00:09]: setting 	isnightmarewarn	false	
 [00:00:09]: setting 	precipitation	none	
 [00:00:09]: setting 	cavephase	day	
-[00:00:09]: setting 	moistureceil	951.55303955078	
+[00:00:09]: setting 	moistureceil	931.68896484375	
 [00:00:09]: setting 	isday	true	
 [00:00:09]: setting 	iscaveday	true	
 [00:00:09]: setting 	season	autumn	
-[00:00:09]: setting 	timeinphase	0.0013891855875651	
-[00:00:09]: setting 	temperature	30.088532814667	
+[00:00:09]: setting 	timeinphase	0.000555674235026	
+[00:00:09]: setting 	temperature	30.033215972026	
 [00:00:09]: setting 	isnightmarecalm	false	
 [00:00:09]: setting 	isnight	false	
 [00:00:09]: setting 	isdusk	false	
@@ -144,7 +144,7 @@
 [00:00:09]: setting 	isautumn	true	
 [00:00:09]: setting 	issnowing	false	
 [00:00:09]: setting 	iswaxingmoon	true	
-[00:00:09]: setting 	pop	8.7576133282282e-05	
+[00:00:09]: setting 	pop	3.5777320897422e-05	
 [00:00:09]: setting 	snowlevel	0	
 [00:00:09]: setting 	issnowcovered	false	
 [00:00:09]: setting 	autumnlength	20	
@@ -158,66 +158,66 @@
 [00:00:09]: setting 	iscavenight	false	
 [00:00:09]: setting 	nightmaretimeinphase	0	
 [00:00:09]: setting 	wetness	0	
-[00:00:09]: setting 	time	0.00069459279378253	
+[00:00:09]: setting 	time	0.000277837117513	
 [00:00:09]: setting 	issummer	false	
-[00:00:12]: Reconstructing topology	
-[00:00:12]: 	...Sorting points	
-[00:00:12]: 	...Sorting edges	
-[00:00:12]: 	...Connecting nodes	
-[00:00:12]: 	...Validating connections	
-[00:00:12]: 	...Housekeeping	
-[00:00:12]: 	...Done!	
-[00:00:12]: 1 uploads added to server. From server_temp
-[00:00:12]: About to start a shard with these settings:
-[00:00:12]:   ShardName: [SHDMASTER]
-[00:00:12]:   ShardID: 1
-[00:00:12]:   ShardRole: MASTER
-[00:00:12]:   MasterHost: (null)
-[00:00:12]:   MasterBind: 127.0.0.1
-[00:00:12]:   MasterPort: 10889
-[00:00:12]: [Shard] Starting master server
-[00:00:12]: [Shard] Shard server started on port: 10889
-[00:00:12]: Telling Client our new session identifier: C7D99822C7ECDF3D
-[00:00:12]: ModIndex: Load sequence finished successfully.	
-[00:00:12]: Reset() returning
-[00:00:12]: [Steam] SteamGameServer_Init(8768, 11000, 27018)
-[00:00:12]: [Steam] SteamGameServer_Init success
-[00:00:12]: Validating portal[6] <-> 3350828721[6] (inactive)	
-[00:00:12]: Validating portal[3] <-> 3350828721[3] (inactive)	
-[00:00:12]: Validating portal[9] <-> 3350828721[9] (inactive)	
-[00:00:12]: Validating portal[10] <-> 3350828721[10] (inactive)	
-[00:00:12]: Validating portal[2] <-> 3350828721[2] (inactive)	
-[00:00:12]: Validating portal[1] <-> 3350828721[1] (inactive)	
-[00:00:12]: Validating portal[8] <-> 3350828721[8] (inactive)	
-[00:00:12]: Validating portal[7] <-> 3350828721[7] (inactive)	
-[00:00:12]: Validating portal[4] <-> 3350828721[4] (inactive)	
-[00:00:12]: Validating portal[5] <-> 3350828721[5] (inactive)	
-[00:00:12]: Sim paused
-[00:00:13]: [Shard] Slave Caves(3350828721) connected: [LAN] 127.0.0.1
-[00:00:14]: [Shard] Slave Caves(3350828721) ready!
-[00:00:14]: World 3350828721 is now connected	
-[00:00:14]: Validating portal[6] <-> 3350828721[6] (disabled)	
-[00:00:14]: Validating portal[3] <-> 3350828721[3] (disabled)	
-[00:00:14]: Validating portal[9] <-> 3350828721[9] (disabled)	
-[00:00:14]: Validating portal[10] <-> 3350828721[10] (disabled)	
-[00:00:14]: Validating portal[2] <-> 3350828721[2] (disabled)	
-[00:00:14]: Validating portal[1] <-> 3350828721[1] (disabled)	
-[00:00:14]: Validating portal[8] <-> 3350828721[8] (disabled)	
-[00:00:14]: Validating portal[7] <-> 3350828721[7] (disabled)	
-[00:00:14]: Validating portal[4] <-> 3350828721[4] (disabled)	
-[00:00:14]: Validating portal[5] <-> 3350828721[5] (disabled)	
-[00:09:36]: Serializing world: session/C7D99822C7ECDF3D/0000000006
-[00:09:36]: [Shard] Stopping shard mode
-[00:09:36]: Collecting garbage...
-[00:09:37]: lua_gc took 0.17 seconds
-[00:09:37]: ~ShardLuaProxy()
-[00:09:37]: ~ItemServerLuaProxy()
-[00:09:37]: ~InventoryLuaProxy()
-[00:09:37]: ~NetworkLuaProxy()
-[00:09:37]: ~SimLuaProxy()
-[00:09:37]: lua_close took 0.27 seconds
-[00:09:37]:  Manager - ORPHANED UNKNOWN RESOURCES:
-[00:09:37]: shaders/ui_yuv.ksh - 1
-[00:09:37]: CurlRequestManager::ClientThread::Main() complete
-[00:09:37]: HttpClient2 discarded 1 callbacks.
-[00:09:37]: Shutting down
+[00:00:13]: Reconstructing topology	
+[00:00:13]: 	...Sorting points	
+[00:00:13]: 	...Sorting edges	
+[00:00:13]: 	...Connecting nodes	
+[00:00:13]: 	...Validating connections	
+[00:00:13]: 	...Housekeeping	
+[00:00:13]: 	...Done!	
+[00:00:13]: 1 uploads added to server. From server_temp
+[00:00:13]: About to start a shard with these settings:
+[00:00:13]:   ShardName: [SHDMASTER]
+[00:00:13]:   ShardID: 1
+[00:00:13]:   ShardRole: MASTER
+[00:00:13]:   MasterHost: (null)
+[00:00:13]:   MasterBind: 127.0.0.1
+[00:00:13]:   MasterPort: 10889
+[00:00:13]: [Shard] Starting master server
+[00:00:13]: [Shard] Shard server started on port: 10889
+[00:00:13]: Telling Client our new session identifier: 91692E342BE072D7
+[00:00:13]: ModIndex: Load sequence finished successfully.	
+[00:00:13]: Reset() returning
+[00:00:13]: [Steam] SteamGameServer_Init(8768, 11000, 27018)
+[00:00:13]: [Steam] SteamGameServer_Init success
+[00:00:13]: Validating portal[6] <-> 3350828721[6] (inactive)	
+[00:00:13]: Validating portal[1] <-> 3350828721[1] (inactive)	
+[00:00:13]: Validating portal[4] <-> 3350828721[4] (inactive)	
+[00:00:13]: Validating portal[10] <-> 3350828721[10] (inactive)	
+[00:00:13]: Validating portal[2] <-> 3350828721[2] (inactive)	
+[00:00:13]: Validating portal[7] <-> 3350828721[7] (inactive)	
+[00:00:13]: Validating portal[9] <-> 3350828721[9] (inactive)	
+[00:00:13]: Validating portal[8] <-> 3350828721[8] (inactive)	
+[00:00:13]: Validating portal[3] <-> 3350828721[3] (inactive)	
+[00:00:13]: Validating portal[5] <-> 3350828721[5] (inactive)	
+[00:00:13]: Sim paused
+[00:00:14]: [Shard] Slave Caves(3350828721) connected: [LAN] 127.0.0.1
+[00:00:15]: [Shard] Slave Caves(3350828721) ready!
+[00:00:15]: World 3350828721 is now connected	
+[00:00:15]: Validating portal[6] <-> 3350828721[6] (disabled)	
+[00:00:15]: Validating portal[1] <-> 3350828721[1] (disabled)	
+[00:00:15]: Validating portal[4] <-> 3350828721[4] (disabled)	
+[00:00:15]: Validating portal[10] <-> 3350828721[10] (disabled)	
+[00:00:15]: Validating portal[2] <-> 3350828721[2] (disabled)	
+[00:00:15]: Validating portal[7] <-> 3350828721[7] (disabled)	
+[00:00:15]: Validating portal[9] <-> 3350828721[9] (disabled)	
+[00:00:15]: Validating portal[8] <-> 3350828721[8] (disabled)	
+[00:00:15]: Validating portal[3] <-> 3350828721[3] (disabled)	
+[00:00:15]: Validating portal[5] <-> 3350828721[5] (disabled)	
+[00:02:43]: Serializing world: session/91692E342BE072D7/0000000004
+[00:02:43]: [Shard] Stopping shard mode
+[00:02:43]: Collecting garbage...
+[00:02:43]: lua_gc took 0.21 seconds
+[00:02:43]: ~ShardLuaProxy()
+[00:02:43]: ~ItemServerLuaProxy()
+[00:02:43]: ~InventoryLuaProxy()
+[00:02:43]: ~NetworkLuaProxy()
+[00:02:43]: ~SimLuaProxy()
+[00:02:44]: lua_close took 0.43 seconds
+[00:02:44]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[00:02:44]: shaders/ui_yuv.ksh - 1
+[00:02:44]: CurlRequestManager::ClientThread::Main() complete
+[00:02:44]: HttpClient2 discarded 1 callbacks.
+[00:02:44]: Shutting down
