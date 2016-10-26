@@ -1,0 +1,706 @@
+[00:00:00]: PersistRootStorage is now /Users/dmarconi/Documents/Klei//DoNotStarveTogether/MyDediServer/Caves/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 194420
+[00:00:00]: Current time: Wed Oct 26 12:38:21 2016
+
+[00:00:00]: Don't Starve Together: 194420 OSX
+[00:00:00]: Build Date: 1298
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -monitor_parent_process 680 -shard Caves 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: ....Done
+[00:00:00]: THREAD - started 'GAClient' (2964328448)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:5.07
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: THREAD - started 'ConsoleInput' (2966433792)
+[00:00:00]: OnLoadPermissionList: /Users/dmarconi/Documents/Klei//DoNotStarveTogether/MyDediServer/blocklist.txt (Failure)
+[00:00:00]: OnLoadPermissionList: /Users/dmarconi/Documents/Klei//DoNotStarveTogether/MyDediServer/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: /Users/dmarconi/Documents/Klei//DoNotStarveTogether/MyDediServer/whitelist.txt (Failure)
+[00:00:00]: Token retrieved from: /Users/dmarconi/Documents/Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:00]: Token retrieved from: /Users/dmarconi/Documents/Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: FMOD Error: An invalid object handle was used. 
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]: running main.lua
+	
+[00:00:00]: loaded modindex	
+[00:00:00]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:00]: DownloadMods(0)
+[00:00:00]: FMOD Error: An invalid object handle was used. 
+[00:00:01]: LOADING LUA SUCCESS
+[00:00:01]: PlayerDeaths could not load morgue	
+[00:00:01]: PlayerHistory could not load player_history	
+[00:00:01]: bloom_enabled	false	
+[00:00:01]: loaded saveindex	
+[00:00:01]: OnFilesLoaded()	
+[00:00:01]: OnUpdatePurchaseStateComplete	
+[00:00:04]: 	Load FE	
+[00:00:05]: 	Load FE: done	
+[00:00:05]: ModIndex: Load sequence finished successfully.	
+[00:00:05]: Reset() returning
+[00:00:06]: [200] Account Communication Success (6)
+[00:00:06]: Received (KU_jos6C9p8) from TokenPurpose
+[00:00:06]: Starting Dedicated Server Game	
+[00:00:06]: Network tick rate: U=15(2), D=0
+[00:00:06]: About to start a server with the following settings:
+[00:00:06]:   Dedicated: true
+[00:00:06]:   Online: true
+[00:00:06]:   Passworded: true
+[00:00:06]:   ServerPort: 11001
+[00:00:06]:   SteamAuthPort: 8769
+[00:00:06]:   SteamMasterServerPort: 27019
+[00:00:06]:   ClanID: false
+[00:00:06]:   ClanOnly: false
+[00:00:06]:   ClanAdmin: false
+[00:00:06]:   LanOnly: false
+[00:00:06]:   FriendsOnly: false
+[00:00:06]:   EnableAutosaver: true
+[00:00:06]:   PVP: false
+[00:00:06]:   MaxPlayers: 6
+[00:00:06]:   GameMode: survival
+[00:00:06]:   OverridenDNS: 
+[00:00:06]:   PauseWhenEmpty: true
+[00:00:06]:   VoteEnabled: true
+[00:00:06]:   InternetBroadcasting: true
+[00:00:06]:   Intent: cooperative
+[00:00:06]: Online Server Started on port: 11001
+[00:00:06]: Collecting garbage...
+[00:00:06]: lua_gc took 0.03 seconds
+[00:00:06]: ~ShardLuaProxy()
+[00:00:06]: ~ItemServerLuaProxy()
+[00:00:06]: ~InventoryLuaProxy()
+[00:00:06]: ~NetworkLuaProxy()
+[00:00:06]: ~SimLuaProxy()
+[00:00:06]: lua_close took 0.05 seconds
+[00:00:06]: ReleaseAll
+[00:00:06]: ReleaseAll Finished
+[00:00:06]: cGame::StartPlaying
+[00:00:06]: LOADING LUA
+[00:00:06]: DoLuaFile scripts/main.lua
+[00:00:06]: DoLuaFile loading buffer scripts/main.lua
+[00:00:06]: running main.lua
+	
+[00:00:06]: loaded modindex	
+[00:00:06]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:07]: LOADING LUA SUCCESS
+[00:00:07]: PlayerDeaths could not load morgue	
+[00:00:07]: PlayerHistory could not load player_history	
+[00:00:07]: bloom_enabled	false	
+[00:00:07]: loaded saveindex	
+[00:00:07]: OnFilesLoaded()	
+[00:00:07]: OnUpdatePurchaseStateComplete	
+[00:00:07]: 	Unload FE	
+[00:00:07]: 	Unload FE done	
+[00:00:08]: 	LOAD BE	
+[00:00:08]: AddPortMapping(11001, 11001, 192.168.178.28) failed with code 403 (UnknownError)
+[00:00:08]: AddPortMapping(11001, 11001, 192.168.178.28) failed with code 403 (UnknownError)
+[00:00:11]: 	LOAD BE: done	
+[00:00:11]: Loading world: session/B5B489CC93022842/0000000004	
+[00:00:11]: Save file is at version 4.3	
+[00:00:11]: Begin Session: B5B489CC93022842
+[00:00:11]: saving to server_temp/server_save	
+[00:00:11]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:12]: Loading Nav Grid	
+[00:00:12]: setting 	summerlength	15	
+[00:00:12]: setting 	isnightmaredawn	false	
+[00:00:12]: setting 	elapseddaysinseason	0	
+[00:00:12]: setting 	isfullmoon	false	
+[00:00:12]: setting 	moisture	1.5333322286606	
+[00:00:12]: setting 	springlength	20	
+[00:00:12]: setting 	isnightmarewild	false	
+[00:00:12]: setting 	moonphase	new	
+[00:00:12]: setting 	precipitationrate	0	
+[00:00:12]: setting 	iswet	false	
+[00:00:12]: setting 	isnewmoon	false	
+[00:00:12]: setting 	iswinter	false	
+[00:00:12]: setting 	israining	false	
+[00:00:12]: setting 	isnightmarewarn	false	
+[00:00:12]: setting 	precipitation	none	
+[00:00:12]: setting 	cavephase	day	
+[00:00:12]: setting 	moistureceil	736.78314208984	
+[00:00:12]: setting 	isday	false	
+[00:00:12]: setting 	iscaveday	true	
+[00:00:12]: setting 	season	autumn	
+[00:00:12]: setting 	timeinphase	0.0051399866739908	
+[00:00:12]: setting 	temperature	18.877204984841	
+[00:00:12]: setting 	isnightmarecalm	true	
+[00:00:12]: setting 	isnight	true	
+[00:00:12]: setting 	isdusk	false	
+[00:00:12]: setting 	iscavedusk	false	
+[00:00:12]: setting 	isautumn	true	
+[00:00:12]: setting 	issnowing	false	
+[00:00:12]: setting 	iswaxingmoon	true	
+[00:00:12]: setting 	pop	0.0020811174157858	
+[00:00:12]: setting 	snowlevel	0	
+[00:00:12]: setting 	issnowcovered	false	
+[00:00:12]: setting 	autumnlength	20	
+[00:00:12]: setting 	phase	night	
+[00:00:12]: setting 	nightmaretime	6.1318359375	
+[00:00:12]: setting 	winterlength	15	
+[00:00:12]: setting 	isspring	false	
+[00:00:12]: setting 	nightmarephase	calm	
+[00:00:12]: setting 	remainingdaysinseason	20	
+[00:00:12]: setting 	cycles	0	
+[00:00:12]: setting 	iscavenight	false	
+[00:00:12]: setting 	nightmaretimeinphase	0.017032877604167	
+[00:00:12]: setting 	wetness	0	
+[00:00:12]: setting 	time	0.0025699933369954	
+[00:00:12]: setting 	issummer	false	
+[00:00:12]: [Shard] Slave is waiting for LUA...
+[00:00:17]: Reconstructing topology	
+[00:00:17]: 	...Sorting points	
+[00:00:17]: 	...Sorting edges	
+[00:00:17]: 	...Connecting nodes	
+[00:00:17]: 	...Validating connections	
+[00:00:17]: 	...Housekeeping	
+[00:00:17]: 	...Done!	
+[00:00:17]: 1 uploads added to server. From server_temp
+[00:00:17]: About to start a shard with these settings:
+[00:00:17]:   ShardName: Caves
+[00:00:17]:   ShardID: 3350828721
+[00:00:17]:   ShardRole: SLAVE
+[00:00:17]:   MasterHost: 127.0.0.1
+[00:00:17]:   MasterBind: (null)
+[00:00:17]:   MasterPort: 10889
+[00:00:17]: [Shard] Connecting to master...
+[00:00:17]: Telling Client our new session identifier: B5B489CC93022842
+[00:00:17]: ModIndex: Load sequence finished successfully.	
+[00:00:17]: Reset() returning
+[00:00:17]: [Steam] SteamGameServer_Init(8769, 11001, 27019)
+[00:00:17]: [Steam] SteamGameServer_Init success
+[00:00:17]: [Shard] Connection to master failed. Waiting to reconnect...
+[00:00:18]: Validating portal[8] <-> 1[8] (inactive)	
+[00:00:18]: Validating portal[9] <-> 1[9] (inactive)	
+[00:00:18]: Validating portal[10] <-> 1[10] (inactive)	
+[00:00:18]: Validating portal[7] <-> 1[7] (inactive)	
+[00:00:18]: Validating portal[2] <-> 1[2] (inactive)	
+[00:00:18]: Validating portal[4] <-> 1[4] (inactive)	
+[00:00:18]: Validating portal[3] <-> 1[3] (inactive)	
+[00:00:18]: Validating portal[1] <-> 1[1] (inactive)	
+[00:00:18]: Validating portal[6] <-> 1[6] (inactive)	
+[00:00:18]: Validating portal[5] <-> 1[5] (inactive)	
+[00:00:22]: About to start a shard with these settings:
+[00:00:22]:   ShardName: Caves
+[00:00:22]:   ShardID: 3350828721
+[00:00:22]:   ShardRole: SLAVE
+[00:00:22]:   MasterHost: 127.0.0.1
+[00:00:22]:   MasterBind: (null)
+[00:00:22]:   MasterPort: 10889
+[00:00:22]: [Shard] Connecting to master...
+[00:00:23]: [Shard] Sending slave information to master...
+[00:00:23]: [Shard] Registering in lobby as a slave server...
+[00:00:23]: [Shard] Slave is now ready!
+[00:00:23]: World 1 is now connected	
+[00:00:23]: Validating portal[8] <-> 1[8] (active)	
+[00:00:23]: Validating portal[9] <-> 1[9] (active)	
+[00:00:23]: Validating portal[10] <-> 1[10] (active)	
+[00:00:23]: Validating portal[7] <-> 1[7] (active)	
+[00:00:23]: Validating portal[2] <-> 1[2] (active)	
+[00:00:23]: Validating portal[4] <-> 1[4] (active)	
+[00:00:23]: Validating portal[3] <-> 1[3] (active)	
+[00:00:23]: Validating portal[1] <-> 1[1] (active)	
+[00:00:23]: Validating portal[6] <-> 1[6] (active)	
+[00:00:23]: Validating portal[5] <-> 1[5] (active)	
+[00:00:24]: [Shard] Slave LUA is now ready!
+[00:00:24]: Sim paused
+[00:06:23]: Sim unpaused
+[00:14:25]: Serializing world: session/B5B489CC93022842/0000000005
+[00:22:25]: Serializing world: session/B5B489CC93022842/0000000006
+[00:29:59]: Sim paused
+[00:30:06]: [200] Account Communication Success (6)
+[00:30:06]: Received (KU_jos6C9p8) from TokenPurpose
+[00:34:19]: Sim unpaused
+[00:34:45]: Serializing world: session/B5B489CC93022842/0000000007
+[00:42:46]: Serializing world: session/B5B489CC93022842/0000000008
+[00:42:46]: Truncating to snapshot #8...
+[00:42:46]:  - session/B5B489CC93022842/0000000002
+[00:42:46]:    1 file(s) removed
+[00:50:46]: Serializing world: session/B5B489CC93022842/0000000009
+[00:50:46]: Truncating to snapshot #9...
+[00:50:46]:  - session/B5B489CC93022842/0000000003
+[00:50:46]:    1 file(s) removed
+[00:58:47]: Serializing world: session/B5B489CC93022842/0000000010
+[00:58:47]: Truncating to snapshot #10...
+[00:58:47]:  - session/B5B489CC93022842/0000000004
+[00:58:47]:    1 file(s) removed
+[01:00:06]: [200] Account Communication Success (6)
+[01:00:06]: Received (KU_jos6C9p8) from TokenPurpose
+[01:06:47]: Serializing world: session/B5B489CC93022842/0000000011
+[01:06:47]: Truncating to snapshot #11...
+[01:06:47]:  - session/B5B489CC93022842/0000000005
+[01:06:47]:    1 file(s) removed
+[01:14:48]: Serializing world: session/B5B489CC93022842/0000000012
+[01:14:48]: Truncating to snapshot #12...
+[01:14:48]:  - session/B5B489CC93022842/0000000006
+[01:14:48]:    1 file(s) removed
+[01:16:29]: Start world reset countdown... 120 seconds...	
+[01:16:31]: World 1 is now disconnected	
+[01:16:31]: Validating portal[8] <-> 1[8] (inactive)	
+[01:16:31]: Validating portal[9] <-> 1[9] (inactive)	
+[01:16:31]: Validating portal[10] <-> 1[10] (inactive)	
+[01:16:31]: Validating portal[7] <-> 1[7] (inactive)	
+[01:16:31]: Validating portal[2] <-> 1[2] (inactive)	
+[01:16:31]: Validating portal[4] <-> 1[4] (inactive)	
+[01:16:31]: Validating portal[3] <-> 1[3] (inactive)	
+[01:16:31]: Validating portal[1] <-> 1[1] (inactive)	
+[01:16:31]: Validating portal[6] <-> 1[6] (inactive)	
+[01:16:31]: Validating portal[5] <-> 1[5] (inactive)	
+[01:16:31]: Sim paused
+[01:16:31]: Received world reset request	
+[01:16:31]: ... File [0000000007]
+[01:16:31]: ... File [0000000008]
+[01:16:31]: ... File [0000000009]
+[01:16:31]: ... File [0000000010]
+[01:16:31]: ... File [0000000011]
+[01:16:31]: ... File [0000000012]
+[01:16:31]: DelDirectory [/Users/dmarconi/Documents/Klei//DoNotStarveTogether/MyDediServer/Caves/save/session/B5B489CC93022842] 0: ok.
+[01:16:31]: Sim unpaused
+[01:16:31]: Collecting garbage...
+[01:16:32]: lua_gc took 0.20 seconds
+[01:16:32]: ~ShardLuaProxy()
+[01:16:32]: ~ItemServerLuaProxy()
+[01:16:32]: ~InventoryLuaProxy()
+[01:16:32]: ~NetworkLuaProxy()
+[01:16:32]: ~SimLuaProxy()
+[01:16:32]: lua_close took 0.50 seconds
+[01:16:32]: ReleaseAll
+[01:16:32]: ReleaseAll Finished
+[01:16:32]: cGame::StartPlaying
+[01:16:32]: LOADING LUA
+[01:16:32]: DoLuaFile scripts/main.lua
+[01:16:32]: DoLuaFile loading buffer scripts/main.lua
+[01:16:33]: running main.lua
+	
+[01:16:33]: loaded modindex	
+[01:16:33]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[01:16:33]: LOADING LUA SUCCESS
+[01:16:33]: PlayerDeaths could not load morgue	
+[01:16:33]: PlayerHistory could not load player_history	
+[01:16:33]: bloom_enabled	false	
+[01:16:33]: loaded saveindex	
+[01:16:33]: OnFilesLoaded()	
+[01:16:33]: OnUpdatePurchaseStateComplete	
+[01:16:33]: Not applying level data overrides.	
+[01:16:33]: Found a worldgen override file with these contents:	
+[01:16:33]: 	K: 	override_enabled	 V: 	true	
+[01:16:33]: 	K: 	preset	 V: 	DST_CAVE	
+[01:16:33]:   sanity-checking worldgenoverride.lua...	
+[01:16:33]: Loaded and applied world gen overrides from ../worldgenoverride.lua	
+[01:16:33]:   contained preset DST_CAVE, loading...	
+[01:16:33]:   applying overrides to preset...	
+[01:16:33]: Overwriting savedata with override file.	
+[01:16:33]: WorldSim::SimThread::SimThread()
+[01:16:33]: ABOUT TO INSTALL STACKTRACE
+[01:16:33]: DoLuaFile scripts/stacktrace.lua
+[01:16:33]: DoLuaFile loading buffer scripts/stacktrace.lua
+[01:16:33]: INSTALLED STACKTRACE
+[01:16:33]: WorldSim::SimThread::SimThread() complete
+[01:16:33]: THREAD - started 'WorldSim' (2986471424)
+[01:16:33]: WorldSim::SimThread::Main()
+[01:16:33]: DoLuaFile scripts/worldgen_main.lua
+[01:16:33]: DoLuaFile loading buffer scripts/worldgen_main.lua
+[01:16:33]: ModIndex: Load sequence finished successfully.	
+[01:16:33]: Reset() returning
+[01:16:33]: DLC enabled : 	false	
+[01:16:33]: running worldgen_main.lua
+	
+[01:16:33]: SEED = 	1477482894	
+[01:16:33]: Generating world with these parameters:	
+[01:16:33]: level_type	SURVIVAL	
+[01:16:33]: level_data:	
+[01:16:33]: 	K: 	1	 V: 	table: 0x8385890	
+[01:16:33]: 		K: 	background_node_range	 V: 	table: 0x8383460	
+[01:16:33]: 			K: 	1	 V: 	0	
+[01:16:33]: 			K: 	2	 V: 	1	
+[01:16:33]: 		K: 	desc	 V: 	Delve into the caves... together!	
+[01:16:33]: 		K: 	hideminimap	 V: 	false	
+[01:16:33]: 		K: 	id	 V: 	DST_CAVE	
+[01:16:33]: 		K: 	location	 V: 	cave	
+[01:16:33]: 		K: 	max_playlist_position	 V: 	999	
+[01:16:33]: 		K: 	min_playlist_position	 V: 	0	
+[01:16:33]: 		K: 	name	 V: 	The Caves	
+[01:16:33]: 		K: 	numrandom_set_pieces	 V: 	0	
+[01:16:33]: 		K: 	override_level_string	 V: 	false	
+[01:16:33]: 		K: 	overrides	 V: 	table: 0x83836f0	
+[01:16:33]: 			K: 	layout_mode	 V: 	RestrictNodesByKey	
+[01:16:33]: 			K: 	roads	 V: 	never	
+[01:16:33]: 			K: 	season_start	 V: 	default	
+[01:16:33]: 			K: 	start_location	 V: 	caves	
+[01:16:33]: 			K: 	task_set	 V: 	cave_default	
+[01:16:33]: 			K: 	world_size	 V: 	default	
+[01:16:33]: 			K: 	wormhole_prefab	 V: 	tentacle_pillar	
+[01:16:33]: 		K: 	required_prefabs	 V: 	table: 0x83858b0	
+[01:16:33]: 			K: 	1	 V: 	multiplayer_portal	
+[01:16:33]: 		K: 	substitutes	 V: 	table: 0x3e34940	
+[01:16:33]: 		K: 	version	 V: 	3	
+[01:16:33]: 
+#######
+#
+# Generating SURVIVAL Mode Level
+#
+#######
+	
+[01:16:33]: Prefab Swap Selection: regular grass	
+[01:16:33]: Prefab Swap Selection: twiggy trees	
+[01:16:33]: Prefab Swap Selection: regular berries	
+[01:16:34]: New size:	425	default	
+[01:16:34]: Creating story...	
+[01:16:34]: RestrictNodesByKey	
+[01:16:34]: ##############################RestrictNodesByKey	
+[01:16:34]: Finding valid start task...	
+[01:16:34]:    ...picked 	CaveExitTask5	
+[01:16:34]: Has start node	GrasslandSinkhole	
+[01:16:34]: Baking map...	425	
+[01:16:34]: [WorldSimActual::GenerateVoronoiMap]
+[01:16:34]: GenerateVoronoiMap [1]:
+[01:16:34]: ...Done.
+[01:16:34]: [AddEmptyNodes]
+[01:16:34]: GenerateVoronoiMap [100]:
+[01:16:39]: ...Done.
+[01:16:39]: [WorldSimActual::GenerateVoronoiMap] complete [success]
+[01:16:39]: [WorldSimActual::ConvertToTileMap]
+[01:16:39]: [ConvertToTileMap]
+[01:16:39]: [WorldSimActual::ConvertToTileMap] complete
+[01:16:39]: [WorldSimActual::SeparateIslands]
+[01:16:39]: [SeparateIslands]
+[01:16:39]: [WorldSimActual::SeparateIslands] complete
+[01:16:39]: Map Baked!	
+[01:16:39]: [WorldSimActual::ForceConnectivity]
+[01:16:39]: [GenerateLandmasses]
+[01:16:39]: [MergeConnectedLandmasses] true
+[01:16:39]: [WorldSimActual::ForceConnectivity] complete
+[01:16:39]: [GetWormholesExtra] connected 0 unconnected 1
+[01:16:39]: [GetWormholesExtra] after: connected 1 unconnected 0
+[01:16:39]: [GetWormholesExtra] pushed 0 wormholes
+[01:16:39]: Encoding...	
+[01:16:39]: Encoding... DONE	
+[01:16:39]: Checking Tags	
+[01:16:39]: Populating voronoi...	
+[01:16:39]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[01:16:39]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[01:16:39]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[01:16:39]: Warning! Could not find a spot for RabbitTown in node RabbitCity:1:RabbitTown	
+[01:16:39]: Warning! Could not find a spot for Mudlights in node SwampySinkhole:3:TentacleMud	
+[01:16:39]: Warning! Could not find a spot for Mudlights in node SwampySinkhole:3:TentacleMud	
+[01:16:39]: Warning! Could not find a spot for Mudlights in node SwampySinkhole:3:TentacleMud	
+[01:16:39]: Warning! Could not find a spot for Mudlights in node SwampySinkhole:3:TentacleMud	
+[01:16:39]: Warning! Could not find a spot for EvergreenSinkhole in node GreenForest:6:GreenMushSinkhole	
+[01:16:39]: Warning! Could not find a spot for EvergreenSinkhole in node SwampySinkhole:4:TentaclesAndTrees	
+[01:16:39]: Warning! Could not find a spot for EvergreenSinkhole in node SwampySinkhole:4:TentaclesAndTrees	
+[01:16:39]: Warning! Could not find a spot for StraightWall2 in node Residential2:3:Vacant	
+[01:16:39]: Warning! Could not find a spot for CornerWall2 in node Residential2:3:Vacant	
+[01:16:39]: Warning! Could not find a spot for CornerWall2 in node Residential2:3:Vacant	
+[01:16:39]: Warning! Could not find a spot for CornerWall2 in node Residential2:3:Vacant	
+[01:16:39]: Warning! Could not find a spot for RabbitTown in node CaveExitTask2:0:RabbitTown	
+[01:16:39]: Warning! Could not find a spot for StraightWall2 in node Residential:2:Vacant	
+[01:16:39]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[01:16:39]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[01:16:39]: Warning! Could not find a spot for Mudlights in node CaveSwamp:0:TentacleMud	
+[01:16:39]: Warning! Could not find a spot for StraightWall2 in node Residential:3:Vacant	
+[01:16:39]: Warning! Could not find a spot for StraightWall2 in node Residential:3:Vacant	
+[01:16:39]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[01:16:39]: Warning! Could not find a spot for CornerWall2 in node Residential:3:Vacant	
+[01:16:39]: Warning! Could not find a spot for EvergreenSinkhole in node UndergroundForest:0:SinkholeCopses	
+[01:16:39]: Warning! Could not find a spot for EvergreenSinkhole in node UndergroundForest:0:SinkholeCopses	
+[01:16:39]: disconnected tiles...	744	
+[01:16:39]: TheLabyrinth:0:RuinedGuarden Cant process points	
+[01:16:39]: Done cave map gen!	
+[01:16:39]: Checking map...	
+[01:16:39]: Generation complete	
+[01:16:39]: WorldSim::SimThread::Main() complete
+[01:16:39]: Serializing world: session/5A929FA94B752AF6/0000000002
+[01:16:39]: 	BE assets already loaded	
+[01:16:42]: Begin Session: 5A929FA94B752AF6
+[01:16:42]: Stomping previously assigned session identifier, two loads issued.
+[01:16:42]: saving to server_temp/server_save	
+[01:16:42]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[01:16:43]: Loading Nav Grid	
+[01:16:47]: Reconstructing topology	
+[01:16:47]: 	...Sorting points	
+[01:16:47]: 	...Sorting edges	
+[01:16:47]: 	...Connecting nodes	
+[01:16:47]: 	...Validating connections	
+[01:16:47]: 	...Housekeeping	
+[01:16:47]: 	...Done!	
+[01:16:47]: 1 uploads added to server. From server_temp
+[01:16:47]: Telling Client our new session identifier: 5A929FA94B752AF6
+[01:16:47]: Validating portal[1] <-> <nil>[1] (inactive)	
+[01:16:47]: Validating portal[2] <-> <nil>[2] (inactive)	
+[01:16:47]: Validating portal[3] <-> <nil>[3] (inactive)	
+[01:16:47]: Validating portal[4] <-> <nil>[4] (inactive)	
+[01:16:47]: Validating portal[5] <-> <nil>[5] (inactive)	
+[01:16:47]: Validating portal[6] <-> <nil>[6] (inactive)	
+[01:16:47]: Validating portal[7] <-> <nil>[7] (inactive)	
+[01:16:47]: Validating portal[8] <-> <nil>[8] (inactive)	
+[01:16:47]: Validating portal[9] <-> <nil>[9] (inactive)	
+[01:16:47]: Validating portal[10] <-> <nil>[10] (inactive)	
+[01:16:50]: World 1 is now connected	
+[01:16:50]: Validating portal[1] <-> 1[1] (active)	
+[01:16:50]: Validating portal[2] <-> 1[2] (active)	
+[01:16:50]: Validating portal[3] <-> 1[3] (active)	
+[01:16:50]: Validating portal[4] <-> 1[4] (active)	
+[01:16:50]: Validating portal[5] <-> 1[5] (active)	
+[01:16:50]: Validating portal[6] <-> 1[6] (active)	
+[01:16:50]: Validating portal[7] <-> 1[7] (active)	
+[01:16:50]: Validating portal[8] <-> 1[8] (active)	
+[01:16:50]: Validating portal[9] <-> 1[9] (active)	
+[01:16:50]: Validating portal[10] <-> 1[10] (active)	
+[01:16:51]: Sim paused
+[01:17:19]: Sim unpaused
+[01:25:20]: Serializing world: session/5A929FA94B752AF6/0000000003
+[01:30:06]: [200] Account Communication Success (6)
+[01:30:06]: Received (KU_jos6C9p8) from TokenPurpose
+[01:33:21]: Serializing world: session/5A929FA94B752AF6/0000000004
+[01:41:21]: Serializing world: session/5A929FA94B752AF6/0000000005
+[01:49:22]: Serializing world: session/5A929FA94B752AF6/0000000006
+[01:57:22]: Serializing world: session/5A929FA94B752AF6/0000000007
+[02:00:06]: [200] Account Communication Success (6)
+[02:00:06]: Received (KU_jos6C9p8) from TokenPurpose
+[02:05:23]: Serializing world: session/5A929FA94B752AF6/0000000008
+[02:05:23]: Truncating to snapshot #8...
+[02:05:23]:  - session/5A929FA94B752AF6/0000000002
+[02:05:23]:    1 file(s) removed
+[02:13:23]: Serializing world: session/5A929FA94B752AF6/0000000009
+[02:13:23]: Truncating to snapshot #9...
+[02:13:23]:  - session/5A929FA94B752AF6/0000000003
+[02:13:23]:    1 file(s) removed
+[02:19:16]: Start world reset countdown... 120 seconds...	
+[02:19:19]: World 1 is now disconnected	
+[02:19:19]: Validating portal[1] <-> 1[1] (inactive)	
+[02:19:19]: Validating portal[2] <-> 1[2] (inactive)	
+[02:19:19]: Validating portal[3] <-> 1[3] (inactive)	
+[02:19:19]: Validating portal[4] <-> 1[4] (inactive)	
+[02:19:19]: Validating portal[5] <-> 1[5] (inactive)	
+[02:19:19]: Validating portal[6] <-> 1[6] (inactive)	
+[02:19:19]: Validating portal[7] <-> 1[7] (inactive)	
+[02:19:19]: Validating portal[8] <-> 1[8] (inactive)	
+[02:19:19]: Validating portal[9] <-> 1[9] (inactive)	
+[02:19:19]: Validating portal[10] <-> 1[10] (inactive)	
+[02:19:19]: Sim paused
+[02:19:19]: Received world reset request	
+[02:19:19]: ... File [0000000004]
+[02:19:19]: ... File [0000000005]
+[02:19:19]: ... File [0000000006]
+[02:19:19]: ... File [0000000007]
+[02:19:19]: ... File [0000000008]
+[02:19:19]: ... File [0000000009]
+[02:19:19]: DelDirectory [/Users/dmarconi/Documents/Klei//DoNotStarveTogether/MyDediServer/Caves/save/session/5A929FA94B752AF6] 0: ok.
+[02:19:19]: Sim unpaused
+[02:19:19]: Collecting garbage...
+[02:19:19]: lua_gc took 0.12 seconds
+[02:19:19]: ~ShardLuaProxy()
+[02:19:19]: ~ItemServerLuaProxy()
+[02:19:19]: ~InventoryLuaProxy()
+[02:19:19]: ~NetworkLuaProxy()
+[02:19:19]: ~SimLuaProxy()
+[02:19:19]: lua_close took 0.42 seconds
+[02:19:19]: ReleaseAll
+[02:19:19]: ReleaseAll Finished
+[02:19:19]: cGame::StartPlaying
+[02:19:19]: LOADING LUA
+[02:19:19]: DoLuaFile scripts/main.lua
+[02:19:19]: DoLuaFile loading buffer scripts/main.lua
+[02:19:20]: running main.lua
+	
+[02:19:20]: loaded modindex	
+[02:19:20]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[02:19:20]: LOADING LUA SUCCESS
+[02:19:20]: PlayerDeaths could not load morgue	
+[02:19:20]: PlayerHistory could not load player_history	
+[02:19:20]: bloom_enabled	false	
+[02:19:20]: loaded saveindex	
+[02:19:20]: OnFilesLoaded()	
+[02:19:20]: OnUpdatePurchaseStateComplete	
+[02:19:20]: Not applying level data overrides.	
+[02:19:20]: Found a worldgen override file with these contents:	
+[02:19:20]: 	K: 	override_enabled	 V: 	true	
+[02:19:20]: 	K: 	preset	 V: 	DST_CAVE	
+[02:19:20]:   sanity-checking worldgenoverride.lua...	
+[02:19:20]: Loaded and applied world gen overrides from ../worldgenoverride.lua	
+[02:19:20]:   contained preset DST_CAVE, loading...	
+[02:19:20]:   applying overrides to preset...	
+[02:19:20]: Overwriting savedata with override file.	
+[02:19:20]: WorldSim::SimThread::SimThread()
+[02:19:20]: ABOUT TO INSTALL STACKTRACE
+[02:19:20]: DoLuaFile scripts/stacktrace.lua
+[02:19:20]: DoLuaFile loading buffer scripts/stacktrace.lua
+[02:19:20]: INSTALLED STACKTRACE
+[02:19:20]: WorldSim::SimThread::SimThread() complete
+[02:19:20]: THREAD - started 'WorldSim' (2986471424)
+[02:19:20]: WorldSim::SimThread::Main()
+[02:19:20]: DoLuaFile scripts/worldgen_main.lua
+[02:19:20]: DoLuaFile loading buffer scripts/worldgen_main.lua
+[02:19:20]: ModIndex: Load sequence finished successfully.	
+[02:19:20]: Reset() returning
+[02:19:20]: DLC enabled : 	false	
+[02:19:20]: running worldgen_main.lua
+	
+[02:19:20]: SEED = 	1477486661	
+[02:19:20]: Generating world with these parameters:	
+[02:19:20]: level_type	SURVIVAL	
+[02:19:20]: level_data:	
+[02:19:20]: 	K: 	1	 V: 	table: 0x46165b0	
+[02:19:20]: 		K: 	background_node_range	 V: 	table: 0x4615b40	
+[02:19:20]: 			K: 	1	 V: 	0	
+[02:19:20]: 			K: 	2	 V: 	1	
+[02:19:20]: 		K: 	desc	 V: 	Delve into the caves... together!	
+[02:19:20]: 		K: 	hideminimap	 V: 	false	
+[02:19:20]: 		K: 	id	 V: 	DST_CAVE	
+[02:19:20]: 		K: 	location	 V: 	cave	
+[02:19:20]: 		K: 	max_playlist_position	 V: 	999	
+[02:19:20]: 		K: 	min_playlist_position	 V: 	0	
+[02:19:20]: 		K: 	name	 V: 	The Caves	
+[02:19:20]: 		K: 	numrandom_set_pieces	 V: 	0	
+[02:19:20]: 		K: 	override_level_string	 V: 	false	
+[02:19:20]: 		K: 	overrides	 V: 	table: 0x4615dd0	
+[02:19:20]: 			K: 	layout_mode	 V: 	RestrictNodesByKey	
+[02:19:20]: 			K: 	roads	 V: 	never	
+[02:19:20]: 			K: 	season_start	 V: 	default	
+[02:19:20]: 			K: 	start_location	 V: 	caves	
+[02:19:20]: 			K: 	task_set	 V: 	cave_default	
+[02:19:20]: 			K: 	world_size	 V: 	default	
+[02:19:20]: 			K: 	wormhole_prefab	 V: 	tentacle_pillar	
+[02:19:20]: 		K: 	required_prefabs	 V: 	table: 0x46165d0	
+[02:19:20]: 			K: 	1	 V: 	multiplayer_portal	
+[02:19:20]: 		K: 	substitutes	 V: 	table: 0x4615310	
+[02:19:20]: 		K: 	version	 V: 	3	
+[02:19:20]: 
+#######
+#
+# Generating SURVIVAL Mode Level
+#
+#######
+	
+[02:19:20]: Prefab Swap Selection: regular grass	
+[02:19:20]: Prefab Swap Selection: regular twigs	
+[02:19:20]: Prefab Swap Selection: regular berries	
+[02:19:20]: New size:	425	default	
+[02:19:20]: Creating story...	
+[02:19:20]: RestrictNodesByKey	
+[02:19:20]: ##############################RestrictNodesByKey	
+[02:19:20]: Finding valid start task...	
+[02:19:20]:    ...picked 	CaveExitTask9	
+[02:19:20]: Has start node	GreenMushSinkhole	
+[02:19:20]: Warning! Couldn't find a spot in Sacred for MiscBoon	
+[02:19:20]: Baking map...	425	
+[02:19:20]: [WorldSimActual::GenerateVoronoiMap]
+[02:19:20]: GenerateVoronoiMap [1]:
+[02:19:20]: ...Done.
+[02:19:20]: [AddEmptyNodes]
+[02:19:20]: GenerateVoronoiMap [100]:
+[02:19:26]: ...Done.
+[02:19:26]: [Sacred:BG_4:Blank] poly.size() == 0
+[02:19:26]: [!]	 edge == NULL
+[02:19:26]: [MuddySacred:1:WetWilds] poly.size() == 0
+[02:19:26]: [!]	 edge == NULL
+[02:19:26]: [WorldSimActual::GenerateVoronoiMap] complete [success]
+[02:19:26]: [WorldSimActual::ConvertToTileMap]
+[02:19:26]: [ConvertToTileMap]
+[02:19:26]: [WorldSimActual::ConvertToTileMap] complete
+[02:19:26]: [WorldSimActual::SeparateIslands]
+[02:19:26]: [SeparateIslands]
+[02:19:26]: [WorldSimActual::SeparateIslands] complete
+[02:19:26]: Map Baked!	
+[02:19:26]: [WorldSimActual::ForceConnectivity]
+[02:19:26]: [GenerateLandmasses]
+[02:19:26]: [MergeConnectedLandmasses] true
+[02:19:26]: [WorldSimActual::ForceConnectivity] complete
+[02:19:26]: [GetWormholesExtra] connected 0 unconnected 1
+[02:19:26]: [GetWormholesExtra] after: connected 1 unconnected 0
+[02:19:26]: [GetWormholesExtra] pushed 0 wormholes
+[02:19:26]: Encoding...	
+[02:19:26]: Encoding... DONE	
+[02:19:26]: Checking Tags	
+[02:19:26]: Couldn't generate any points for maze. Aborting.
+[02:19:26]: Populating voronoi...	
+[02:19:26]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[02:19:26]: Warning! Could not find a spot for EvergreenSinkhole in node CaveExitTask6:1:SinkholeCopses	
+[02:19:26]: Warning! Could not find a spot for RabbitTown in node RabbitCity:1:RabbitTown	
+[02:19:26]: Warning! Could not find a spot for Mudlights in node SwampySinkhole:3:TentacleMud	
+[02:19:26]: Warning! Could not find a spot for Mudlights in node SwampySinkhole:3:TentacleMud	
+[02:19:26]: Warning! Could not find a spot for Mudlights in node SwampySinkhole:3:TentacleMud	
+[02:19:26]: Warning! Could not find a spot for Mudlights in node SwampySinkhole:3:TentacleMud	
+[02:19:26]: Warning! Could not find a spot for EvergreenSinkhole in node SwampySinkhole:4:TentaclesAndTrees	
+[02:19:26]: Warning! Could not find a spot for EvergreenSinkhole in node SwampySinkhole:4:TentaclesAndTrees	
+[02:19:26]: Warning! Could not find a spot for RabbitTown in node CaveExitTask10:1:GreenMushRabbits	
+[02:19:26]: Warning! Could not find a spot for CornerWall2 in node Residential:2:Vacant	
+[02:19:26]: Warning! Could not find a spot for GrassySinkhole in node PleasantSinkhole:5:GrasslandSinkhole	
+[02:19:26]: Warning! Could not find a spot for RabbitTown in node RabbitCity:0:RabbitTown	
+[02:19:26]: Warning! Could not find a spot for GrassySinkhole in node PleasantSinkhole:3:GrasslandSinkhole	
+[02:19:26]: Warning! Could not find a spot for PondSinkhole in node PleasantSinkhole:0:SinkholeOasis	
+[02:19:26]: disconnected tiles...	49	
+[02:19:26]: Done cave map gen!	
+[02:19:26]: Checking map...	
+[02:19:26]: Generation complete	
+[02:19:26]: WorldSim::SimThread::Main() complete
+[02:19:26]: Serializing world: session/E7C105CC2BFB9C06/0000000002
+[02:19:26]: 	BE assets already loaded	
+[02:19:28]: Begin Session: E7C105CC2BFB9C06
+[02:19:28]: Stomping previously assigned session identifier, two loads issued.
+[02:19:28]: saving to server_temp/server_save	
+[02:19:28]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[02:19:29]: Loading Nav Grid	
+[02:19:32]: Reconstructing topology	
+[02:19:32]: 	...Sorting points	
+[02:19:32]: 	...Sorting edges	
+[02:19:32]: 	...Connecting nodes	
+[02:19:32]: 	...Validating connections	
+[02:19:32]: 	...Housekeeping	
+[02:19:32]: 	...Done!	
+[02:19:32]: 1 uploads added to server. From server_temp
+[02:19:32]: Telling Client our new session identifier: E7C105CC2BFB9C06
+[02:19:33]: Validating portal[1] <-> <nil>[1] (inactive)	
+[02:19:33]: Validating portal[2] <-> <nil>[2] (inactive)	
+[02:19:33]: Validating portal[3] <-> <nil>[3] (inactive)	
+[02:19:33]: Validating portal[4] <-> <nil>[4] (inactive)	
+[02:19:33]: Validating portal[5] <-> <nil>[5] (inactive)	
+[02:19:33]: Validating portal[6] <-> <nil>[6] (inactive)	
+[02:19:33]: Validating portal[7] <-> <nil>[7] (inactive)	
+[02:19:33]: Validating portal[8] <-> <nil>[8] (inactive)	
+[02:19:33]: Validating portal[9] <-> <nil>[9] (inactive)	
+[02:19:33]: Validating portal[10] <-> <nil>[10] (inactive)	
+[02:19:34]: World 1 is now connected	
+[02:19:34]: Validating portal[1] <-> 1[1] (active)	
+[02:19:34]: Validating portal[2] <-> 1[2] (active)	
+[02:19:34]: Validating portal[3] <-> 1[3] (active)	
+[02:19:34]: Validating portal[4] <-> 1[4] (active)	
+[02:19:34]: Validating portal[5] <-> 1[5] (active)	
+[02:19:34]: Validating portal[6] <-> 1[6] (active)	
+[02:19:34]: Validating portal[7] <-> 1[7] (active)	
+[02:19:34]: Validating portal[8] <-> 1[8] (active)	
+[02:19:34]: Validating portal[9] <-> 1[9] (active)	
+[02:19:34]: Validating portal[10] <-> 1[10] (active)	
+[02:19:34]: Sim paused
+[02:30:07]: [200] Account Communication Success (6)
+[02:30:07]: Received (KU_jos6C9p8) from TokenPurpose
+[02:33:43]: Serializing world: session/E7C105CC2BFB9C06/0000000003
+[02:33:43]: [Shard] Stopping shard mode
+[02:33:43]: Collecting garbage...
+[02:33:44]: lua_gc took 0.17 seconds
+[02:33:44]: ~ShardLuaProxy()
+[02:33:44]: ~ItemServerLuaProxy()
+[02:33:44]: ~InventoryLuaProxy()
+[02:33:44]: ~NetworkLuaProxy()
+[02:33:44]: ~SimLuaProxy()
+[02:33:44]: lua_close took 0.33 seconds
+[02:33:44]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[02:33:44]: shaders/ui_yuv.ksh - 1
+[02:33:44]: CurlRequestManager::ClientThread::Main() complete
+[02:33:44]: HttpClient2 discarded 0 callbacks.
+[02:33:44]: Shutting down

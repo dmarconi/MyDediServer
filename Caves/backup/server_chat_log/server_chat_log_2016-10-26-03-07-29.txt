@@ -1,0 +1,8 @@
+[02:22:45]: [Join Announcement] Gianluigee Bombatomica
+[02:25:45]: [Join Announcement] Druigant
+[02:34:09]: [Leave Announcement] Gianluigee Bombatomica
+[02:36:15]: [Join Announcement] Poppo
+[02:36:51]: [Leave Announcement] Druigant
+[02:37:14]: [Leave Announcement] Poppo
+[03:22:45]: [Join Announcement] Gianluigee Bombatomica
+[03:34:50]: [Leave Announcement] Gianluigee Bombatomica
