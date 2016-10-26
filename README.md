@@ -20,3 +20,8 @@ follow one of there OS dedicates instructions. Keep in mind you have to skips al
 
 ##4 Running the server
 Execute one of the scripts given in the install guide. Remember to push changes every time.
+
+## Useful Links
+- Dedicated Server Settings Guide: http://forums.kleientertainment.com/topic/64552-dedicated-server-settings-guide/
+- Dedicated Server Command Line Options Guide: http://forums.kleientertainment.com/topic/64743-dedicated-server-command-line-options-guide/
+- List of Console Commands: http://dontstarve.wikia.com/wiki/Console/Don%27t_Starve_Together_Commands
