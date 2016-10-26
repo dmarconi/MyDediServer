@@ -1,0 +1,23 @@
+[00:04:44]: [Join Announcement] Gianluigee Bombatomica
+[00:05:05]: [Leave Announcement] Gianluigee Bombatomica
+[00:30:10]: [Join Announcement] Poppo
+[00:31:02]: [Leave Announcement] Poppo
+[00:31:25]: [Join Announcement] Poppo
+[00:31:30]: [Leave Announcement] Poppo
+[00:32:04]: [Join Announcement] Gianluigee Bombatomica
+[00:32:28]: [Join Announcement] Poppo
+[00:44:29]: [Death Announcement] Gianluigee Bombatomica was killed by Spider Warrior. He became a spooky ghost!
+[00:45:07]: [Death Announcement] Poppo was killed by Spider Warrior. She became a spooky ghost!
+[00:54:57]: [Leave Announcement] Poppo
+[00:55:07]: [Leave Announcement] Gianluigee Bombatomica
+[01:02:42]: [Join Announcement] Poppo
+[01:02:54]: [Join Announcement] Gianluigee Bombatomica
+[01:09:27]: [Death Announcement] Poppo was killed by Killer Bee. She became a spooky ghost!
+[01:09:47]: [Death Announcement] Gianluigee Bombatomica was killed by Killer Bee. He became a spooky ghost!
+[01:10:13]: [Leave Announcement] Poppo
+[01:10:14]: [Leave Announcement] Gianluigee Bombatomica
+[01:22:42]: [Join Announcement] Gianluigee Bombatomica
+[01:22:44]: [Join Announcement] Poppo
+[02:04:00]: [Skin Announcement] Gianluigee Bombatomica feet_workboot_tan_clay
+[02:41:43]: [Leave Announcement] Poppo
+[02:41:46]: [Leave Announcement] Gianluigee Bombatomica
