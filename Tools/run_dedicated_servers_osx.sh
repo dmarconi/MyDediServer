@@ -1,7 +1,7 @@
 #!/bin/bash
 
-steamcmd_dir="$HOME/steamcmd"
-install_dir="$HOME/dontstarvetogether_dedicated_server"
+steamcmd_dir="$HOME/Documents/steamcmd"
+install_dir="$HOME/Documents/dontstarvetogether_dedicated_server"
 cluster_name="MyDediServer"
 dontstarve_dir="$HOME/Documents/Klei/DoNotStarveTogether"
 
@@ -39,5 +39,3 @@ run_shared+=(-monitor_parent_process $$)
 
 "${run_shared[@]}" -shard Caves  | sed 's/^/Caves:  /' &
 "${run_shared[@]}" -shard Master | sed 's/^/Master: /'
-
-

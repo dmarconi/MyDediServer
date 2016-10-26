@@ -14,12 +14,16 @@ Clone this repository into your Klei/DoNotStarveTogether folder. Locations diffe
 ##3. Install the DST dedicated server
 follow one of there OS dedicates instructions. Keep in mind you have to skips all the passages regarding the creations of server configs and instances and the server token
 
+The steamcmd folder must be installed on the Documents folder in order to properly use the exe files
+
 - Windows: http://forums.kleientertainment.com/topic/64212-dedicated-server-quick-setup-guide-windows/
 - Linux: http://forums.kleientertainment.com/topic/64441-dedicated-server-quick-setup-guide-linux/
 - OSX: http://forums.kleientertainment.com/topic/64687-dedicated-server-quick-setup-guide-mac-os-x/
 
 ##4 Running the server
-Execute one of the scripts given in the install guide. Remember to push changes every time.
+Execute one of the scripts compatible with the chose OS from the Tools folder
+
+WARNING: this requires a running instance of the steam client
 
 ## Useful Links
 - Dedicated Server Settings Guide: http://forums.kleientertainment.com/topic/64552-dedicated-server-settings-guide/
