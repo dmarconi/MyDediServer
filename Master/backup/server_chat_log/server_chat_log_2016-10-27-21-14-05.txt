@@ -1,0 +1,4 @@
+[00:01:52]: [Join Announcement] Poppo
+[00:02:05]: [Join Announcement] Gianluigee Bombatomica
+[00:20:19]: [Leave Announcement] Poppo
+[00:20:21]: [Leave Announcement] Gianluigee Bombatomica
