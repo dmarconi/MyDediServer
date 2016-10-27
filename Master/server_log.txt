@@ -468,3 +468,189 @@
 [00:33:48]: Serializing user: session/77791EE8050261F1/KU_jos6C9p8_/0000000004
 [00:33:48]: Serializing user: session/77791EE8050261F1/KU_9J1L0NCE_/0000000004
 [00:33:48]: Serializing world: session/77791EE8050261F1/0000000004
+[00:36:13]: Could not find anim [death] in bank [ghost]
+[00:36:13]: Serializing user: session/77791EE8050261F1/KU_9J1L0NCE_/0000000005
+[00:36:19]: [Steam] SendUserDisconnect for '76561198012561646'
+[00:36:19]: [Shard] (KU_9J1L0NCE) disconnected from [SHDMASTER](1)
+[00:36:20]: Serializing user: session/77791EE8050261F1/KU_9J1L0NCE_/0000000005
+[00:41:48]: Serializing user: session/77791EE8050261F1/KU_rk-3Nanr_/0000000005
+[00:41:48]: Serializing user: session/77791EE8050261F1/KU_jos6C9p8_/0000000005
+[00:41:48]: Serializing world: session/77791EE8050261F1/0000000005
+[00:49:49]: Serializing user: session/77791EE8050261F1/KU_rk-3Nanr_/0000000006
+[00:49:49]: Serializing user: session/77791EE8050261F1/KU_jos6C9p8_/0000000006
+[00:49:49]: Serializing world: session/77791EE8050261F1/0000000006
+[00:57:49]: Serializing user: session/77791EE8050261F1/KU_rk-3Nanr_/0000000007
+[00:57:49]: Serializing user: session/77791EE8050261F1/KU_jos6C9p8_/0000000007
+[00:57:49]: Serializing world: session/77791EE8050261F1/0000000007
+[01:00:05]: [200] Account Communication Success (6)
+[01:00:05]: Received (KU_jos6C9p8) from TokenPurpose
+[01:05:49]: Serializing user: session/77791EE8050261F1/KU_rk-3Nanr_/0000000008
+[01:05:49]: Serializing user: session/77791EE8050261F1/KU_jos6C9p8_/0000000008
+[01:05:49]: Serializing world: session/77791EE8050261F1/0000000008
+[01:13:28]: Failed to send server listings
+[01:13:28]: Failure error code received: 504
+[01:13:28]: With Body: 
+[01:13:49]: Serializing user: session/77791EE8050261F1/KU_rk-3Nanr_/0000000009
+[01:13:49]: Serializing user: session/77791EE8050261F1/KU_jos6C9p8_/0000000009
+[01:13:50]: Serializing world: session/77791EE8050261F1/0000000009
+[01:15:34]: New incoming connection 93.44.104.83|40930 <3920991016603561591>
+[01:15:34]: Client connected from 93.44.104.83|40930 <3920991016603561591>
+[01:15:34]: ValidateGameSessionToken pgs-usc^KU_M8T71Hq-^DontStarveTogether^4nbAoTiMO00XgDF3EOKhQai6+9ghIe0BZ0343yaudjM= for <3920991016603561591>
+[01:15:35]: Client authenticated: (KU_M8T71Hq-) Druigant
+[01:15:35]: [Steam] SendUserConnectAndAuthenticate for '76561197999080951'
+[01:15:35]: [Steam] Authenticated client '76561197999080951'
+[01:15:36]: [Shard] Read save location file for (KU_M8T71Hq-)
+[01:15:45]: Resuming user: session/77791EE8050261F1/KU_M8T71Hq-_
+[01:16:00]: [Steam] SendUserDisconnect for '76561198009456580'
+[01:16:00]: [Shard] (KU_jos6C9p8) disconnected from [SHDMASTER](1)
+[01:16:00]: Serializing user: session/77791EE8050261F1/KU_jos6C9p8_/0000000010
+[01:16:05]: [Steam] SendUserDisconnect for '76561198015815756'
+[01:16:05]: [Shard] (KU_rk-3Nanr) disconnected from [SHDMASTER](1)
+[01:16:05]: Serializing user: session/77791EE8050261F1/KU_rk-3Nanr_/0000000010
+[01:16:05]: Sim paused
+[01:16:14]: [Steam] SendUserDisconnect for '76561197999080951'
+[01:16:14]: [Shard] (KU_M8T71Hq-) disconnected from [SHDMASTER](1)
+[01:17:59]: New incoming connection 93.44.104.83|40567 <5377957334808776526>
+[01:17:59]: Client connected from 93.44.104.83|40567 <5377957334808776526>
+[01:17:59]: ValidateGameSessionToken pgs-usc^KU_M8T71Hq-^DontStarveTogether^4L1oVpbBPHdy58+pZ2J8KbEBoIcybnXDBYNcoOBpDR8= for <5377957334808776526>
+[01:18:00]: Client authenticated: (KU_M8T71Hq-) Druigant
+[01:18:00]: [Steam] SendUserConnectAndAuthenticate for '76561197999080951'
+[01:18:00]: [Steam] Authenticated client '76561197999080951'
+[01:18:01]: [Shard] Read save location file for (KU_M8T71Hq-)
+[01:18:02]: New incoming connection 82.73.229.153|57901 <1545324926454255139>
+[01:18:02]: Client connected from 82.73.229.153|57901 <1545324926454255139>
+[01:18:02]: ValidateGameSessionToken pgs-usc^KU_rk-3Nanr^DontStarveTogether^zN5b7zu+xEcOaidJ9wqKNLFQxw1T9LMgDepCLBythPA= for <1545324926454255139>
+[01:18:03]: Client authenticated: (KU_rk-3Nanr) Poppo
+[01:18:03]: [Steam] SendUserConnectAndAuthenticate for '76561198015815756'
+[01:18:03]: [Steam] Authenticated client '76561198015815756'
+[01:18:03]: [Shard] Read save location file for (KU_rk-3Nanr)
+[01:18:08]: Resuming user: session/77791EE8050261F1/KU_M8T71Hq-_
+[01:18:10]: Resuming user: session/77791EE8050261F1/KU_rk-3Nanr_/0000000010
+[01:18:10]: Spawning player at: [Load] (143.52, 0.00, -127.63)	
+[01:18:10]: Sim unpaused
+[01:18:50]: New incoming connection 92.77.244.190|56130 <637948790102449544>
+[01:18:50]: Client connected from 92.77.244.190|56130 <637948790102449544>
+[01:18:50]: ValidateGameSessionToken pgs-usc^KU_jos6C9p8^DontStarveTogether^V4LQ5PS3ls5fqfekgI7b6M3zsDWSPgtTqBIWYlkW354= for <637948790102449544>
+[01:18:51]: Client authenticated: (KU_jos6C9p8) Gianluigee Bombatomica
+[01:18:51]: [Steam] Authenticated host '76561198009456580'
+[01:18:51]: [Shard] Read save location file for (KU_jos6C9p8)
+[01:18:57]: Resuming user: session/77791EE8050261F1/KU_jos6C9p8_/0000000010
+[01:18:57]: Spawning player at: [Load] (148.68, 0.00, -108.31)	
+[01:19:13]: Spawn request: webber from Druigant
+[01:19:13]: Skin request: (webber_bat) () () () ()
+[01:19:13]: Spawning player at: [Fixed] (-110.00, 0.00, 410.00)	
+[01:19:13]: Serializing user: session/77791EE8050261F1/KU_M8T71Hq-_/0000000010
+[01:23:54]: Serializing user: session/77791EE8050261F1/KU_rk-3Nanr_/0000000010
+[01:23:54]: Serializing user: session/77791EE8050261F1/KU_jos6C9p8_/0000000010
+[01:23:54]: Serializing user: session/77791EE8050261F1/KU_M8T71Hq-_/0000000010
+[01:23:54]: Serializing world: session/77791EE8050261F1/0000000010
+[01:30:05]: [200] Account Communication Success (6)
+[01:30:05]: Received (KU_jos6C9p8) from TokenPurpose
+[01:31:54]: Serializing user: session/77791EE8050261F1/KU_rk-3Nanr_/0000000011
+[01:31:54]: Serializing user: session/77791EE8050261F1/KU_jos6C9p8_/0000000011
+[01:31:54]: Serializing user: session/77791EE8050261F1/KU_M8T71Hq-_/0000000011
+[01:31:55]: Serializing world: session/77791EE8050261F1/0000000011
+[01:35:33]: [Steam] SendUserDisconnect for '76561197999080951'
+[01:35:33]: [Shard] (KU_M8T71Hq-) disconnected from [SHDMASTER](1)
+[01:35:34]: Serializing user: session/77791EE8050261F1/KU_M8T71Hq-_/0000000012
+[01:37:46]: New incoming connection 93.44.104.83|40547 <710225458391803263>
+[01:37:46]: Client connected from 93.44.104.83|40547 <710225458391803263>
+[01:37:46]: ValidateGameSessionToken pgs-usc^KU_M8T71Hq-^DontStarveTogether^GK2oUI8YAbSiGnhz7wFbn+hNAiffjOfUfyWdPuj0Ci0= for <710225458391803263>
+[01:37:47]: Client authenticated: (KU_M8T71Hq-) Druigant
+[01:37:47]: [Steam] SendUserConnectAndAuthenticate for '76561197999080951'
+[01:37:47]: [Steam] Authenticated client '76561197999080951'
+[01:37:48]: [Shard] Read save location file for (KU_M8T71Hq-)
+[01:37:55]: Resuming user: session/77791EE8050261F1/KU_M8T71Hq-_/0000000012
+[01:37:55]: Spawning player at: [Load] (59.65, 0.00, -147.66)	
+[01:39:55]: Serializing user: session/77791EE8050261F1/KU_rk-3Nanr_/0000000012
+[01:39:55]: Serializing user: session/77791EE8050261F1/KU_jos6C9p8_/0000000012
+[01:39:55]: Serializing user: session/77791EE8050261F1/KU_M8T71Hq-_/0000000012
+[01:39:55]: Serializing world: session/77791EE8050261F1/0000000012
+[01:47:55]: Serializing user: session/77791EE8050261F1/KU_rk-3Nanr_/0000000013
+[01:47:55]: Serializing user: session/77791EE8050261F1/KU_jos6C9p8_/0000000013
+[01:47:55]: Serializing user: session/77791EE8050261F1/KU_M8T71Hq-_/0000000013
+[01:47:55]: Serializing world: session/77791EE8050261F1/0000000013
+[01:49:28]: Could not find anim [death] in bank [ghost]
+[01:49:28]: Serializing user: session/77791EE8050261F1/KU_M8T71Hq-_/0000000014
+[01:49:40]: [Steam] SendUserDisconnect for '76561197999080951'
+[01:49:40]: [Shard] (KU_M8T71Hq-) disconnected from [SHDMASTER](1)
+[01:49:41]: Serializing user: session/77791EE8050261F1/KU_M8T71Hq-_/0000000014
+[01:55:55]: Serializing user: session/77791EE8050261F1/KU_rk-3Nanr_/0000000014
+[01:55:55]: Serializing user: session/77791EE8050261F1/KU_jos6C9p8_/0000000014
+[01:55:56]: Serializing world: session/77791EE8050261F1/0000000014
+[02:00:05]: [200] Account Communication Success (6)
+[02:00:05]: Received (KU_jos6C9p8) from TokenPurpose
+[02:03:56]: Serializing user: session/77791EE8050261F1/KU_rk-3Nanr_/0000000015
+[02:03:56]: Serializing user: session/77791EE8050261F1/KU_jos6C9p8_/0000000015
+[02:03:56]: Serializing world: session/77791EE8050261F1/0000000015
+[02:11:56]: Serializing user: session/77791EE8050261F1/KU_rk-3Nanr_/0000000016
+[02:11:56]: Serializing user: session/77791EE8050261F1/KU_jos6C9p8_/0000000016
+[02:11:56]: Serializing world: session/77791EE8050261F1/0000000016
+[02:16:09]: [Steam] SendUserDisconnect for '76561198009456580'
+[02:16:09]: [Shard] (KU_jos6C9p8) disconnected from [SHDMASTER](1)
+[02:16:10]: Serializing user: session/77791EE8050261F1/KU_jos6C9p8_/0000000017
+[02:16:16]: [Steam] SendUserDisconnect for '76561198015815756'
+[02:16:16]: [Shard] (KU_rk-3Nanr) disconnected from [SHDMASTER](1)
+[02:16:17]: Serializing user: session/77791EE8050261F1/KU_rk-3Nanr_/0000000017
+[02:16:17]: Sim paused
+[02:16:40]: World 3350828721 is now disconnected	
+[02:16:40]: Validating portal[1] <-> 3350828721[1] (inactive)	
+[02:16:40]: Validating portal[2] <-> 3350828721[2] (inactive)	
+[02:16:40]: Validating portal[3] <-> 3350828721[3] (inactive)	
+[02:16:40]: Validating portal[4] <-> 3350828721[4] (inactive)	
+[02:16:40]: Validating portal[5] <-> 3350828721[5] (inactive)	
+[02:16:40]: Validating portal[6] <-> 3350828721[6] (inactive)	
+[02:16:40]: Validating portal[7] <-> 3350828721[7] (inactive)	
+[02:16:40]: Validating portal[8] <-> 3350828721[8] (inactive)	
+[02:16:40]: Validating portal[9] <-> 3350828721[9] (inactive)	
+[02:16:40]: Validating portal[10] <-> 3350828721[10] (inactive)	
+[02:16:40]: [Shard] A slave has disconnected: 'Caves(3350828721)'
+[02:16:46]: Serializing world: session/77791EE8050261F1/0000000017
+[02:16:46]: Truncating to snapshot #17...
+[02:16:46]:  - session/77791EE8050261F1/0000000002
+[02:16:46]:  - session/77791EE8050261F1/0000000003
+[02:16:46]:  - session/77791EE8050261F1/0000000004
+[02:16:46]:  - session/77791EE8050261F1/0000000005
+[02:16:46]:  - session/77791EE8050261F1/0000000006
+[02:16:46]:  - session/77791EE8050261F1/0000000007
+[02:16:46]:  - session/77791EE8050261F1/0000000008
+[02:16:46]:  - session/77791EE8050261F1/0000000009
+[02:16:46]:  - session/77791EE8050261F1/0000000010
+[02:16:46]:  - session/77791EE8050261F1/0000000011
+[02:16:46]:  - session/77791EE8050261F1/KU_9J1L0NCE_/0000000004
+[02:16:46]:  - session/77791EE8050261F1/KU_9J1L0NCE_/0000000003
+[02:16:46]:  - session/77791EE8050261F1/KU_jos6C9p8_/0000000011
+[02:16:46]:  - session/77791EE8050261F1/KU_jos6C9p8_/0000000010
+[02:16:46]:  - session/77791EE8050261F1/KU_jos6C9p8_/0000000009
+[02:16:46]:  - session/77791EE8050261F1/KU_jos6C9p8_/0000000008
+[02:16:46]:  - session/77791EE8050261F1/KU_jos6C9p8_/0000000007
+[02:16:46]:  - session/77791EE8050261F1/KU_jos6C9p8_/0000000006
+[02:16:46]:  - session/77791EE8050261F1/KU_jos6C9p8_/0000000005
+[02:16:46]:  - session/77791EE8050261F1/KU_jos6C9p8_/0000000004
+[02:16:46]:  - session/77791EE8050261F1/KU_jos6C9p8_/0000000003
+[02:16:46]:  - session/77791EE8050261F1/KU_M8T71Hq-_/0000000011
+[02:16:46]:  - session/77791EE8050261F1/KU_M8T71Hq-_/0000000010
+[02:16:46]:  - session/77791EE8050261F1/KU_rk-3Nanr_/0000000011
+[02:16:46]:  - session/77791EE8050261F1/KU_rk-3Nanr_/0000000010
+[02:16:46]:  - session/77791EE8050261F1/KU_rk-3Nanr_/0000000009
+[02:16:46]:  - session/77791EE8050261F1/KU_rk-3Nanr_/0000000008
+[02:16:46]:  - session/77791EE8050261F1/KU_rk-3Nanr_/0000000007
+[02:16:46]:  - session/77791EE8050261F1/KU_rk-3Nanr_/0000000006
+[02:16:46]:  - session/77791EE8050261F1/KU_rk-3Nanr_/0000000005
+[02:16:46]:  - session/77791EE8050261F1/KU_rk-3Nanr_/0000000004
+[02:16:46]:  - session/77791EE8050261F1/KU_rk-3Nanr_/0000000003
+[02:16:46]:    32 file(s) removed
+[02:16:46]: [Shard] Stopping shard mode
+[02:16:46]: Collecting garbage...
+[02:16:47]: lua_gc took 0.16 seconds
+[02:16:47]: ~ShardLuaProxy()
+[02:16:47]: ~ItemServerLuaProxy()
+[02:16:47]: ~InventoryLuaProxy()
+[02:16:47]: ~NetworkLuaProxy()
+[02:16:47]: ~SimLuaProxy()
+[02:16:47]: lua_close took 0.24 seconds
+[02:16:47]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[02:16:47]: shaders/ui_yuv.ksh - 1
+[02:16:47]: CurlRequestManager::ClientThread::Main() complete
+[02:16:47]: HttpClient2 discarded 1 callbacks.
+[02:16:47]: Shutting down

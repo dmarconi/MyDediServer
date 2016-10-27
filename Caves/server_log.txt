@@ -445,3 +445,69 @@
 [00:30:05]: [200] Account Communication Success (6)
 [00:30:05]: Received (KU_jos6C9p8) from TokenPurpose
 [00:33:48]: Serializing world: session/1ECF6802B1F744C5/0000000004
+[00:41:48]: Serializing world: session/1ECF6802B1F744C5/0000000005
+[00:49:49]: Serializing world: session/1ECF6802B1F744C5/0000000006
+[00:57:49]: Serializing world: session/1ECF6802B1F744C5/0000000007
+[01:00:05]: [200] Account Communication Success (6)
+[01:00:05]: Received (KU_jos6C9p8) from TokenPurpose
+[01:05:49]: Serializing world: session/1ECF6802B1F744C5/0000000008
+[01:05:49]: Truncating to snapshot #8...
+[01:05:49]:  - session/1ECF6802B1F744C5/0000000002
+[01:05:49]:    1 file(s) removed
+[01:13:49]: Serializing world: session/1ECF6802B1F744C5/0000000009
+[01:13:49]: Truncating to snapshot #9...
+[01:13:49]:  - session/1ECF6802B1F744C5/0000000003
+[01:13:49]:    1 file(s) removed
+[01:16:05]: Sim paused
+[01:18:10]: Sim unpaused
+[01:23:54]: Serializing world: session/1ECF6802B1F744C5/0000000010
+[01:23:54]: Truncating to snapshot #10...
+[01:23:54]:  - session/1ECF6802B1F744C5/0000000004
+[01:23:54]:    1 file(s) removed
+[01:30:05]: [200] Account Communication Success (6)
+[01:30:05]: Received (KU_jos6C9p8) from TokenPurpose
+[01:31:55]: Serializing world: session/1ECF6802B1F744C5/0000000011
+[01:31:55]: Truncating to snapshot #11...
+[01:31:55]:  - session/1ECF6802B1F744C5/0000000005
+[01:31:55]:    1 file(s) removed
+[01:39:55]: Serializing world: session/1ECF6802B1F744C5/0000000012
+[01:39:55]: Truncating to snapshot #12...
+[01:39:55]:  - session/1ECF6802B1F744C5/0000000006
+[01:39:55]:    1 file(s) removed
+[01:47:55]: Serializing world: session/1ECF6802B1F744C5/0000000013
+[01:47:55]: Truncating to snapshot #13...
+[01:47:55]:  - session/1ECF6802B1F744C5/0000000007
+[01:47:55]:    1 file(s) removed
+[01:55:56]: Serializing world: session/1ECF6802B1F744C5/0000000014
+[01:55:56]: Truncating to snapshot #14...
+[01:55:56]:  - session/1ECF6802B1F744C5/0000000008
+[01:55:56]:    1 file(s) removed
+[02:00:05]: [200] Account Communication Success (6)
+[02:00:05]: Received (KU_jos6C9p8) from TokenPurpose
+[02:03:56]: Serializing world: session/1ECF6802B1F744C5/0000000015
+[02:03:56]: Truncating to snapshot #15...
+[02:03:56]:  - session/1ECF6802B1F744C5/0000000009
+[02:03:56]:    1 file(s) removed
+[02:11:56]: Serializing world: session/1ECF6802B1F744C5/0000000016
+[02:11:56]: Truncating to snapshot #16...
+[02:11:56]:  - session/1ECF6802B1F744C5/0000000010
+[02:11:56]:    1 file(s) removed
+[02:16:17]: Sim paused
+[02:16:39]: Serializing world: session/1ECF6802B1F744C5/0000000017
+[02:16:39]: Truncating to snapshot #17...
+[02:16:39]:  - session/1ECF6802B1F744C5/0000000011
+[02:16:39]:    1 file(s) removed
+[02:16:40]: [Shard] Stopping shard mode
+[02:16:40]: Collecting garbage...
+[02:16:40]: lua_gc took 0.09 seconds
+[02:16:40]: ~ShardLuaProxy()
+[02:16:40]: ~ItemServerLuaProxy()
+[02:16:40]: ~InventoryLuaProxy()
+[02:16:40]: ~NetworkLuaProxy()
+[02:16:40]: ~SimLuaProxy()
+[02:16:40]: lua_close took 0.13 seconds
+[02:16:40]:  Manager - ORPHANED UNKNOWN RESOURCES:
+[02:16:40]: shaders/ui_yuv.ksh - 1
+[02:16:40]: CurlRequestManager::ClientThread::Main() complete
+[02:16:40]: HttpClient2 discarded 0 callbacks.
+[02:16:40]: Shutting down
