@@ -1,20 +1,12 @@
-[00:13:08]: [Join Announcement] Poppo
-[00:13:20]: [Death Announcement] Poppo was killed by Beefalo. She became a spooky ghost!
-[00:16:52]: [Join Announcement] Aramills
-[00:17:36]: [Join Announcement] Gianluigee Bombatomica
-[00:36:13]: [Death Announcement] Aramills was killed by Pig Man. He became a spooky ghost!
-[00:36:19]: [Leave Announcement] Aramills
-[00:59:51]: [Skin Announcement] Poppo hand_waxwell_formal
-[01:15:44]: [Join Announcement] Druigant
-[01:16:00]: [Leave Announcement] Gianluigee Bombatomica
-[01:16:05]: [Leave Announcement] Poppo
-[01:16:14]: [Leave Announcement] Druigant
-[01:18:07]: [Join Announcement] Druigant
-[01:18:09]: [Join Announcement] Poppo
-[01:18:56]: [Join Announcement] Gianluigee Bombatomica
-[01:35:33]: [Leave Announcement] Druigant
-[01:37:54]: [Join Announcement] Druigant
-[01:49:28]: [Death Announcement] Druigant was killed by Pig Man. He became a spooky ghost!
-[01:49:40]: [Leave Announcement] Druigant
-[02:16:09]: [Leave Announcement] Gianluigee Bombatomica
-[02:16:16]: [Leave Announcement] Poppo
+[00:01:30]: [Join Announcement] Poppo
+[00:02:09]: [Death Announcement] Poppo was killed by Beefalo. She became a spooky ghost!
+[00:02:47]: [Join Announcement] Gianluigee Bombatomica
+[00:02:56]: [Join Announcement] Druigant
+[00:02:58]: [Death Announcement] Gianluigee Bombatomica was killed by Clockwork Rook. He became a spooky ghost!
+[00:36:56]: [Death Announcement] Gianluigee Bombatomica was killed by Pig Man. They became a spooky ghost!
+[00:44:03]: [Resurrect Announcement] Gianluigee Bombatomica was resurrected by Poppo.
+[00:45:44]: [Leave Announcement] Druigant
+[01:15:52]: [Skin Announcement] Poppo body_tshirt_grey_battleship
+[01:17:13]: [Skin Announcement] Gianluigee Bombatomica body_glommer_costume
+[01:28:48]: [Leave Announcement] Gianluigee Bombatomica
+[01:28:48]: [Leave Announcement] Poppo
