@@ -1,13 +1,11 @@
-[00:00:36]: [Join Announcement] Aramills
-[00:00:45]: [Join Announcement] Poppo
-[00:01:03]: [Join Announcement] Giggi Bombatomica
-[00:03:19]: [Say] (KU_jos6C9p8) Giggi Bombatomica: prot
-[00:04:41]: [Skin Announcement] Giggi Bombatomica body_cardigan_red_cardinal
-[00:05:03]: [Say] (KU_jos6C9p8) Giggi Bombatomica: mettice la carne
-[00:06:55]: [Say] (KU_jos6C9p8) Giggi Bombatomica: spe
-[00:07:00]: [Say] (KU_jos6C9p8) Giggi Bombatomica: la notte
-[00:07:42]: [Say] (KU_jos6C9p8) Giggi Bombatomica: ammazzare bufali
-[00:31:01]: [Skin Announcement] Poppo body_wilson_shadow
-[00:31:22]: [Leave Announcement] Giggi Bombatomica
-[00:31:23]: [Leave Announcement] Poppo
-[00:31:28]: [Leave Announcement] Aramills
+[00:01:10]: [Join Announcement] Giggi Bombatomica
+[00:01:19]: [Join Announcement] Poppo
+[00:01:19]: [Join Announcement] Aramills
+[00:01:40]: [Join Announcement] Lapis
+[00:10:08]: [Join Announcement] .pA!
+[00:11:43]: [Leave Announcement] .pA!
+[00:13:28]: [Leave Announcement] Aramills
+[00:31:22]: [Skin Announcement] Giggi Bombatomica body_trimmed_blouse_yellow_flax
+[00:53:47]: [Leave Announcement] Giggi Bombatomica
+[00:54:00]: [Leave Announcement] Poppo
+[00:54:08]: [Leave Announcement] Lapis
