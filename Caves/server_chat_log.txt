@@ -1,4 +1,5 @@
-[00:13:08]: [Join Announcement] Poppo
-[00:13:20]: [Death Announcement] Poppo was killed by Beefalo. She became a spooky ghost!
-[00:16:52]: [Join Announcement] Aramills
-[00:17:36]: [Join Announcement] Gianluigee Bombatomica
+[00:01:16]: [Join Announcement] Giggi Bombatomica
+[00:02:42]: [Join Announcement] Aramills
+[00:49:23]: [Skin Announcement] Aramills body_trimmed_blouse_red_higgsbury
+[01:08:46]: [Leave Announcement] Aramills
+[01:08:49]: [Leave Announcement] Giggi Bombatomica

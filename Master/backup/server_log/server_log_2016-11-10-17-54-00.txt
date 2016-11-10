@@ -1,0 +1,491 @@
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/MyDediServer/Master/ 
+[00:00:00]: Starting Up
+[00:00:00]: Version: 194420
+[00:00:00]: Current time: Sun Nov 06 16:47:11 2016
+
+[00:00:00]: Don't Starve Together: 194420 WIN32
+[00:00:00]: Build Date: 1456
+[00:00:00]: Parsing command line
+[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -shard Master 
+[00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
+[00:00:00]: Initializing distribution platform
+[00:00:00]: Initializing Minidump handler
+[00:00:00]: ....Done
+[00:00:00]: ....Done
+[00:00:00]: Fixing DPI
+[00:00:00]: ...Done
+[00:00:00]: THREAD - started 'GAClient' (9816)
+[00:00:00]: CurlRequestManager::ClientThread::Main()
+[00:00:00]: ProfileIndex:3.21
+[00:00:00]: [Connect] PendingConnection::Reset(true)
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Network tick rate: U=15(2), D=0
+[00:00:00]: Authorized application c:\steamcmd\steamapps\common\Don't Starve Together Dedicated Server\bin\dontstarve_dedicated_server_nullrenderer.exe is enabled in the firewall.
+[00:00:00]: WindowsFirewall - Application already authorized
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/MyDediServer/blocklist.txt (Failure)
+[00:00:00]: THREAD - started 'ConsoleInput' (9192)
+[00:00:00]: OnLoadPermissionList: APP:Klei//DoNotStarveTogether/MyDediServer/adminlist.txt (Failure)
+[00:00:00]: OnLoadUserIdList: APP:Klei//DoNotStarveTogether/MyDediServer/whitelist.txt (Failure)
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
+[00:00:00]: HardwareStats:
+  OS                        
+    name                      Microsoft Windows 10 Home
+    version                   10.0.14393
+    architecture              64-bit
+    platformSpecific          SP 0.0
+  CPU                       
+    numCores                  4
+    features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
+    name                      Intel(R) Core(TM) i7-6700 CPU @ 3.40GHz
+    manufacturer              GenuineIntel
+    clockSpeed                3408
+  RAM                       
+    megsOfRam                 16384
+  GPU                       
+    name                      NVIDIA GeForce GTX 970
+    driverDate                20161025000000.000000-000
+    megsOfRam                 4095
+    refreshRate               144
+    videoModeDescription      1920 x 1080 x 4294967296 colors
+    driverVersion             21.21.13.7570
+
+[00:00:00]: cGame::InitializeOnMainThread
+[00:00:00]: Renderer initialize: Okay
+[00:00:00]: AnimManager initialize: Okay
+[00:00:00]: Buffers initialize: Okay
+[00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
+[00:00:00]: FMOD Error: An invalid object handle was used. 
+[00:00:00]: GameSpecific initialize: Okay
+[00:00:00]: cGame::StartPlaying
+[00:00:00]: LOADING LUA
+[00:00:00]: DoLuaFile scripts/main.lua
+[00:00:00]: DoLuaFile loading buffer scripts/main.lua
+[00:00:00]: running main.lua
+	
+[00:00:00]: loaded modindex	
+[00:00:00]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:00]: DownloadMods(0)
+[00:00:00]: FMOD Error: An invalid object handle was used. 
+[00:00:01]: LOADING LUA SUCCESS
+[00:00:01]: PlayerDeaths could not load morgue	
+[00:00:01]: PlayerHistory could not load player_history	
+[00:00:01]: bloom_enabled	false	
+[00:00:01]: loaded saveindex	
+[00:00:01]: OnFilesLoaded()	
+[00:00:01]: OnUpdatePurchaseStateComplete	
+[00:00:04]: 	Load FE	
+[00:00:05]: 	Load FE: done	
+[00:00:05]: ModIndex: Load sequence finished successfully.	
+[00:00:05]: Reset() returning
+[00:00:05]: [200] Account Communication Success (6)
+[00:00:05]: Received (KU_jos6C9p8) from TokenPurpose
+[00:00:05]: Starting Dedicated Server Game	
+[00:00:05]: Network tick rate: U=15(2), D=0
+[00:00:05]: About to start a server with the following settings:
+[00:00:05]:   Dedicated: true
+[00:00:05]:   Online: true
+[00:00:05]:   Passworded: true
+[00:00:05]:   ServerPort: 11000
+[00:00:05]:   SteamAuthPort: 8768
+[00:00:05]:   SteamMasterServerPort: 27018
+[00:00:05]:   ClanID: false
+[00:00:05]:   ClanOnly: false
+[00:00:05]:   ClanAdmin: false
+[00:00:05]:   LanOnly: false
+[00:00:05]:   FriendsOnly: false
+[00:00:05]:   EnableAutosaver: true
+[00:00:05]:   PVP: false
+[00:00:05]:   MaxPlayers: 6
+[00:00:05]:   GameMode: survival
+[00:00:05]:   OverridenDNS: 
+[00:00:05]:   PauseWhenEmpty: true
+[00:00:05]:   VoteEnabled: true
+[00:00:05]:   InternetBroadcasting: true
+[00:00:05]:   Intent: cooperative
+[00:00:05]: [Warning] Could not confirm port 11000 is open in the firewall. 
+[00:00:05]: Online Server Started on port: 11000
+[00:00:05]: Collecting garbage...
+[00:00:05]: lua_gc took 0.01 seconds
+[00:00:05]: ~ShardLuaProxy()
+[00:00:05]: ~ItemServerLuaProxy()
+[00:00:05]: ~InventoryLuaProxy()
+[00:00:05]: ~NetworkLuaProxy()
+[00:00:05]: ~SimLuaProxy()
+[00:00:05]: lua_close took 0.02 seconds
+[00:00:05]: ReleaseAll
+[00:00:05]: ReleaseAll Finished
+[00:00:05]: cGame::StartPlaying
+[00:00:05]: LOADING LUA
+[00:00:05]: DoLuaFile scripts/main.lua
+[00:00:05]: DoLuaFile loading buffer scripts/main.lua
+[00:00:05]: running main.lua
+	
+[00:00:05]: loaded modindex	
+[00:00:05]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:00:06]: LOADING LUA SUCCESS
+[00:00:06]: PlayerDeaths could not load morgue	
+[00:00:06]: PlayerHistory could not load player_history	
+[00:00:06]: bloom_enabled	false	
+[00:00:06]: loaded saveindex	
+[00:00:06]: OnFilesLoaded()	
+[00:00:06]: OnUpdatePurchaseStateComplete	
+[00:00:06]: 	Unload FE	
+[00:00:06]: 	Unload FE done	
+[00:00:06]: 	LOAD BE	
+[00:00:08]: 	LOAD BE: done	
+[00:00:08]: Loading world: session/71DE7D89EDF611C7/0000000020	
+[00:00:08]: Save file is at version 4.3	
+[00:00:08]: Begin Session: 71DE7D89EDF611C7
+[00:00:08]: saving to server_temp/server_save	
+[00:00:08]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:00:09]: Loading Nav Grid	
+[00:00:09]: setting 	summerlength	15	
+[00:00:09]: setting 	isnightmaredawn	false	
+[00:00:09]: setting 	elapseddaysinseason	16	
+[00:00:09]: setting 	isfullmoon	false	
+[00:00:09]: setting 	moisture	3056.1647949219	
+[00:00:09]: setting 	springlength	20	
+[00:00:09]: setting 	isnightmarewild	false	
+[00:00:09]: setting 	moonphase	half	
+[00:00:09]: setting 	precipitationrate	0	
+[00:00:09]: setting 	iswet	false	
+[00:00:09]: setting 	isnewmoon	false	
+[00:00:09]: setting 	iswinter	false	
+[00:00:09]: setting 	israining	false	
+[00:00:09]: setting 	isnightmarewarn	false	
+[00:00:09]: setting 	precipitation	none	
+[00:00:09]: setting 	cavephase	day	
+[00:00:09]: setting 	moistureceil	6963.8452148438	
+[00:00:09]: setting 	isday	true	
+[00:00:09]: setting 	iscaveday	true	
+[00:00:09]: setting 	season	autumn	
+[00:00:09]: setting 	timeinphase	0.35575111025856	
+[00:00:09]: setting 	temperature	16.612876881699	
+[00:00:09]: setting 	isnightmarecalm	false	
+[00:00:09]: setting 	isnight	false	
+[00:00:09]: setting 	isdusk	false	
+[00:00:09]: setting 	iscavedusk	false	
+[00:00:09]: setting 	isautumn	true	
+[00:00:09]: setting 	issnowing	false	
+[00:00:09]: setting 	iswaxingmoon	false	
+[00:00:09]: setting 	pop	0.40493462476719	
+[00:00:09]: setting 	snowlevel	0	
+[00:00:09]: setting 	issnowcovered	false	
+[00:00:09]: setting 	autumnlength	20	
+[00:00:09]: setting 	phase	day	
+[00:00:09]: setting 	nightmaretime	0	
+[00:00:09]: setting 	winterlength	15	
+[00:00:09]: setting 	isspring	false	
+[00:00:09]: setting 	nightmarephase	none	
+[00:00:09]: setting 	remainingdaysinseason	4	
+[00:00:09]: setting 	cycles	16	
+[00:00:09]: setting 	iscavenight	false	
+[00:00:09]: setting 	nightmaretimeinphase	0	
+[00:00:09]: setting 	wetness	0	
+[00:00:09]: setting 	time	0.15564111073812	
+[00:00:09]: setting 	issummer	false	
+[00:00:12]: Reconstructing topology	
+[00:00:12]: 	...Sorting points	
+[00:00:12]: 	...Sorting edges	
+[00:00:12]: 	...Connecting nodes	
+[00:00:12]: 	...Validating connections	
+[00:00:12]: 	...Housekeeping	
+[00:00:12]: 	...Done!	
+[00:00:12]: 1 uploads added to server. From server_temp
+[00:00:12]: About to start a shard with these settings:
+[00:00:12]:   ShardName: [SHDMASTER]
+[00:00:12]:   ShardID: 1
+[00:00:12]:   ShardRole: MASTER
+[00:00:12]:   MasterHost: (null)
+[00:00:12]:   MasterBind: 127.0.0.1
+[00:00:12]:   MasterPort: 10889
+[00:00:12]: [Shard] Starting master server
+[00:00:12]: [Warning] Could not confirm port 10889 is open in the firewall. 
+[00:00:12]: [Shard] Shard server started on port: 10889
+[00:00:12]: Telling Client our new session identifier: 71DE7D89EDF611C7
+[00:00:12]: ModIndex: Load sequence finished successfully.	
+[00:00:12]: Reset() returning
+[00:00:12]: [Steam] SteamGameServer_Init(8768, 11000, 27018)
+[00:00:12]: [Steam] SteamGameServer_Init success
+[00:00:13]: Validating portal[3] <-> 3350828721[3] (inactive)	
+[00:00:13]: Validating portal[4] <-> 3350828721[4] (inactive)	
+[00:00:13]: Validating portal[5] <-> 3350828721[5] (inactive)	
+[00:00:13]: Validating portal[1] <-> 3350828721[1] (inactive)	
+[00:00:13]: Validating portal[6] <-> 3350828721[6] (inactive)	
+[00:00:13]: Validating portal[9] <-> 3350828721[9] (inactive)	
+[00:00:13]: Validating portal[8] <-> 3350828721[8] (inactive)	
+[00:00:13]: Validating portal[2] <-> 3350828721[2] (inactive)	
+[00:00:13]: Validating portal[7] <-> 3350828721[7] (inactive)	
+[00:00:13]: Validating portal[10] <-> 3350828721[10] (inactive)	
+[00:00:13]: Sim paused
+[00:00:13]: [Shard] Slave Caves(3350828721) connected: [LAN] 127.0.0.1
+[00:00:14]: [Shard] Slave Caves(3350828721) ready!
+[00:00:14]: World 3350828721 is now connected	
+[00:00:14]: Validating portal[3] <-> 3350828721[3] (disabled)	
+[00:00:14]: Validating portal[4] <-> 3350828721[4] (disabled)	
+[00:00:14]: Validating portal[5] <-> 3350828721[5] (disabled)	
+[00:00:14]: Validating portal[1] <-> 3350828721[1] (disabled)	
+[00:00:14]: Validating portal[6] <-> 3350828721[6] (disabled)	
+[00:00:14]: Validating portal[9] <-> 3350828721[9] (disabled)	
+[00:00:14]: Validating portal[8] <-> 3350828721[8] (disabled)	
+[00:00:14]: Validating portal[2] <-> 3350828721[2] (disabled)	
+[00:00:14]: Validating portal[7] <-> 3350828721[7] (disabled)	
+[00:00:14]: Validating portal[10] <-> 3350828721[10] (disabled)	
+[00:01:00]: New incoming connection 178.3.62.200|60522 <1207041688436235929>
+[00:01:00]: Client connected from 178.3.62.200|60522 <1207041688436235929>
+[00:01:00]: ValidateGameSessionToken pgs-usc^KU_jos6C9p8^DontStarveTogether^JBTg469pgnZNaPksYTPQ3rAV2c02U6zoWLztuZs8x7Q= for <1207041688436235929>
+[00:01:00]: New incoming connection 82.73.229.153|55441 <6825842714972102379>
+[00:01:00]: Client connected from 82.73.229.153|55441 <6825842714972102379>
+[00:01:00]: ValidateGameSessionToken pgs-usc^KU_rk-3Nanr^DontStarveTogether^qS2IPrZzoEcLZWp1OsYf//B5TpCs/rj3roMkugE0dfQ= for <6825842714972102379>
+[00:01:00]: Client authenticated: (KU_jos6C9p8) Giggi Bombatomica
+[00:01:00]: Client authenticated: (KU_rk-3Nanr) Poppo
+[00:01:00]: [Steam] Authenticated host '76561198009456580'
+[00:01:00]: [Steam] SendUserConnectAndAuthenticate for '76561198015815756'
+[00:01:01]: [Steam] Authenticated client '76561198015815756'
+[00:01:01]: [Shard] Read save location file for (KU_jos6C9p8)
+[00:01:01]: [Shard] Read save location file for (KU_rk-3Nanr)
+[00:01:08]: Resuming user: session/71DE7D89EDF611C7/KU_jos6C9p8_/0000000020
+[00:01:08]: Spawning player at: [Load] (-435.64, -0.00, -322.69)	
+[00:01:08]: Sim unpaused
+[00:01:08]: Resuming user: session/71DE7D89EDF611C7/KU_rk-3Nanr_/0000000020
+[00:01:08]: Spawning player at: [Load] (224.89, -0.00, 9.46)	
+[00:01:10]: New incoming connection 93.44.104.83|40380 <637089817143427408>
+[00:01:10]: Client connected from 93.44.104.83|40380 <637089817143427408>
+[00:01:10]: ValidateGameSessionToken pgs-usc^KU_M8T71Hq-^DontStarveTogether^371ap+dyhYAI6R1VJ4REkRQsWdbfvvkW6J4V01YCytg= for <637089817143427408>
+[00:01:11]: Client authenticated: (KU_M8T71Hq-) Druigant
+[00:01:11]: [Steam] SendUserConnectAndAuthenticate for '76561197999080951'
+[00:01:11]: [Steam] Authenticated client '76561197999080951'
+[00:01:11]: [Shard] Read save location file for (KU_M8T71Hq-)
+[00:01:26]: Resuming user: session/71DE7D89EDF611C7/KU_M8T71Hq-_/0000000020
+[00:01:26]: Spawning player at: [Load] (228.03, -0.00, 11.10)	
+[00:07:54]: Serializing user: session/71DE7D89EDF611C7/KU_jos6C9p8_/0000000021
+[00:07:54]: Serializing user: session/71DE7D89EDF611C7/KU_rk-3Nanr_/0000000021
+[00:07:54]: Serializing user: session/71DE7D89EDF611C7/KU_M8T71Hq-_/0000000021
+[00:07:54]: Serializing world: session/71DE7D89EDF611C7/0000000021
+[00:15:54]: Serializing user: session/71DE7D89EDF611C7/KU_jos6C9p8_/0000000022
+[00:15:54]: Serializing user: session/71DE7D89EDF611C7/KU_rk-3Nanr_/0000000022
+[00:15:54]: Serializing user: session/71DE7D89EDF611C7/KU_M8T71Hq-_/0000000022
+[00:15:54]: Serializing world: session/71DE7D89EDF611C7/0000000022
+[00:23:54]: Serializing user: session/71DE7D89EDF611C7/KU_jos6C9p8_/0000000023
+[00:23:54]: Serializing user: session/71DE7D89EDF611C7/KU_rk-3Nanr_/0000000023
+[00:23:54]: Serializing user: session/71DE7D89EDF611C7/KU_M8T71Hq-_/0000000023
+[00:23:55]: Serializing world: session/71DE7D89EDF611C7/0000000023
+[00:30:05]: [200] Account Communication Success (6)
+[00:30:05]: Received (KU_jos6C9p8) from TokenPurpose
+[00:31:42]: Could not find anim [death] in bank [ghost]
+[00:31:42]: Serializing user: session/71DE7D89EDF611C7/KU_jos6C9p8_/0000000024
+[00:31:55]: Serializing user: session/71DE7D89EDF611C7/KU_jos6C9p8_/0000000024
+[00:31:55]: Serializing user: session/71DE7D89EDF611C7/KU_rk-3Nanr_/0000000024
+[00:31:55]: Serializing user: session/71DE7D89EDF611C7/KU_M8T71Hq-_/0000000024
+[00:31:55]: Serializing world: session/71DE7D89EDF611C7/0000000024
+[00:33:42]: Could not find anim [death] in bank [ghost]
+[00:33:42]: Serializing user: session/71DE7D89EDF611C7/KU_M8T71Hq-_/0000000025
+[00:34:28]: Could not find anim [death] in bank [ghost]
+[00:34:28]: Serializing user: session/71DE7D89EDF611C7/KU_rk-3Nanr_/0000000025
+[00:34:28]: Start world reset countdown... 120 seconds...	
+[00:34:31]: Received world reset request	
+[00:34:31]: Collecting garbage...
+[00:34:31]: lua_gc took 0.09 seconds
+[00:34:31]: ~ShardLuaProxy()
+[00:34:31]: ~ItemServerLuaProxy()
+[00:34:31]: ~InventoryLuaProxy()
+[00:34:31]: ~NetworkLuaProxy()
+[00:34:31]: ~SimLuaProxy()
+[00:34:31]: lua_close took 0.20 seconds
+[00:34:31]: ReleaseAll
+[00:34:31]: ReleaseAll Finished
+[00:34:31]: cGame::StartPlaying
+[00:34:31]: LOADING LUA
+[00:34:31]: DoLuaFile scripts/main.lua
+[00:34:31]: DoLuaFile loading buffer scripts/main.lua
+[00:34:31]: running main.lua
+	
+[00:34:31]: loaded modindex	
+[00:34:31]: ModIndex: Beginning normal load sequence for dedicated server.
+	
+[00:34:31]: LOADING LUA SUCCESS
+[00:34:31]: PlayerDeaths could not load morgue	
+[00:34:31]: PlayerHistory could not load player_history	
+[00:34:31]: bloom_enabled	false	
+[00:34:31]: loaded saveindex	
+[00:34:31]: OnFilesLoaded()	
+[00:34:31]: OnUpdatePurchaseStateComplete	
+[00:34:31]: Not applying level data overrides.	
+[00:34:31]: Not applying world gen overrides.	
+[00:34:31]: WorldSim::SimThread::SimThread()
+[00:34:31]: ABOUT TO INSTALL STACKTRACE
+[00:34:31]: DoLuaFile scripts/stacktrace.lua
+[00:34:31]: DoLuaFile loading buffer scripts/stacktrace.lua
+[00:34:31]: INSTALLED STACKTRACE
+[00:34:31]: WorldSim::SimThread::SimThread() complete
+[00:34:31]: THREAD - started 'WorldSim' (9184)
+[00:34:31]: WorldSim::SimThread::Main()
+[00:34:31]: DoLuaFile scripts/worldgen_main.lua
+[00:34:31]: DoLuaFile loading buffer scripts/worldgen_main.lua
+[00:34:31]: ModIndex: Load sequence finished successfully.	
+[00:34:31]: Reset() returning
+[00:34:31]: [Shard] Slave 'Caves(3350828721)' restarting...
+[00:34:31]: World 3350828721 is now disconnected	
+[00:34:31]: DLC enabled : 	false	
+[00:34:32]: running worldgen_main.lua
+	
+[00:34:32]: SEED = 	1478449302	
+[00:34:32]: Generating world with these parameters:	
+[00:34:32]: level_type	SURVIVAL	
+[00:34:32]: level_data:	
+[00:34:32]: 	K: 	1	 V: 	table: 08A23C20	
+[00:34:32]: 		K: 	desc	 V: 	The standard Don't Starve experience.	
+[00:34:32]: 		K: 	hideminimap	 V: 	false	
+[00:34:32]: 		K: 	id	 V: 	SURVIVAL_TOGETHER	
+[00:34:32]: 		K: 	location	 V: 	forest	
+[00:34:32]: 		K: 	max_playlist_position	 V: 	999	
+[00:34:32]: 		K: 	min_playlist_position	 V: 	0	
+[00:34:32]: 		K: 	name	 V: 	Default	
+[00:34:32]: 		K: 	numrandom_set_pieces	 V: 	4	
+[00:34:32]: 		K: 	ordered_story_setpieces	 V: 	table: 08A23BD0	
+[00:34:32]: 			K: 	1	 V: 	Sculptures_1	
+[00:34:32]: 			K: 	2	 V: 	Maxwell5	
+[00:34:32]: 		K: 	override_level_string	 V: 	false	
+[00:34:32]: 		K: 	overrides	 V: 	table: 08A25048	
+[00:34:32]: 			K: 	layout_mode	 V: 	LinkNodesByKeys	
+[00:34:32]: 			K: 	roads	 V: 	default	
+[00:34:32]: 			K: 	season_start	 V: 	default	
+[00:34:32]: 			K: 	start_location	 V: 	default	
+[00:34:32]: 			K: 	task_set	 V: 	default	
+[00:34:32]: 			K: 	world_size	 V: 	default	
+[00:34:32]: 			K: 	wormhole_prefab	 V: 	wormhole	
+[00:34:32]: 		K: 	random_set_pieces	 V: 	table: 08A245D0	
+[00:34:32]: 			K: 	1	 V: 	Sculptures_2	
+[00:34:32]: 			K: 	2	 V: 	Sculptures_3	
+[00:34:32]: 			K: 	3	 V: 	Sculptures_4	
+[00:34:32]: 			K: 	4	 V: 	Sculptures_5	
+[00:34:32]: 			K: 	5	 V: 	Chessy_1	
+[00:34:32]: 			K: 	6	 V: 	Chessy_2	
+[00:34:32]: 			K: 	7	 V: 	Chessy_3	
+[00:34:32]: 			K: 	8	 V: 	Chessy_4	
+[00:34:32]: 			K: 	9	 V: 	Chessy_5	
+[00:34:32]: 			K: 	10	 V: 	Chessy_6	
+[00:34:32]: 			K: 	11	 V: 	Maxwell1	
+[00:34:32]: 			K: 	12	 V: 	Maxwell2	
+[00:34:32]: 			K: 	13	 V: 	Maxwell3	
+[00:34:32]: 			K: 	14	 V: 	Maxwell4	
+[00:34:32]: 			K: 	15	 V: 	Maxwell6	
+[00:34:32]: 			K: 	16	 V: 	Maxwell7	
+[00:34:32]: 			K: 	17	 V: 	Warzone_1	
+[00:34:32]: 			K: 	18	 V: 	Warzone_2	
+[00:34:32]: 			K: 	19	 V: 	Warzone_3	
+[00:34:32]: 		K: 	required_prefabs	 V: 	table: 08A240F8	
+[00:34:32]: 			K: 	1	 V: 	multiplayer_portal	
+[00:34:32]: 		K: 	substitutes	 V: 	table: 08A243A0	
+[00:34:32]: 		K: 	version	 V: 	3	
+[00:34:32]: 
+#######
+#
+# Generating SURVIVAL Mode Level
+#
+#######
+	
+[00:34:32]: Prefab Swap Selection: regular grass	
+[00:34:32]: Prefab Swap Selection: regular twigs	
+[00:34:32]: Prefab Swap Selection: regular berries	
+[00:34:32]: Maxwell6	added to	Befriend the pigs	
+[00:34:32]: Maxwell7	added to	Dig that rock	
+[00:34:32]: Chessy_5	added to	Make a pick	
+[00:34:32]: Sculptures_4	added to	Beeeees!	
+[00:34:32]: New size:	425	default	
+[00:34:32]: Creating story...	
+[00:34:32]: LinkNodesByKeys	
+[00:34:32]: Finding valid start task...	
+[00:34:32]:    ...picked 	Make a pick	
+[00:34:32]: Has start node	Clearing	
+[00:34:32]: Baking map...	425	
+[00:34:32]: [WorldSimActual::GenerateVoronoiMap]
+[00:34:32]: GenerateVoronoiMap [1]:
+[00:34:32]: ...Done.
+[00:34:32]: [AddEmptyNodes]
+[00:34:32]: GenerateVoronoiMap [100]:
+[00:34:34]: ...Done.
+[00:34:34]: [WorldSimActual::GenerateVoronoiMap] complete [success]
+[00:34:34]: [WorldSimActual::ConvertToTileMap]
+[00:34:34]: [ConvertToTileMap]
+[00:34:34]: [WorldSimActual::ConvertToTileMap] complete
+[00:34:34]: [WorldSimActual::SeparateIslands]
+[00:34:34]: [SeparateIslands]
+[00:34:34]: [WorldSimActual::SeparateIslands] complete
+[00:34:34]: Map Baked!	
+[00:34:34]: [WorldSimActual::ForceConnectivity]
+[00:34:34]: [GenerateLandmasses]
+[00:34:34]: [MergeConnectedLandmasses] true
+[00:34:34]: [WorldSimActual::ForceConnectivity] complete
+[00:34:34]: [GetWormholesExtra] connected 0 unconnected 1
+[00:34:34]: [GetWormholesExtra] after: connected 1 unconnected 0
+[00:34:34]: [GetWormholesExtra] pushed 0 wormholes
+[00:34:34]: [WorldSimActual::DrawRoads]
+[00:34:34]: [DrawRoads]
+[00:34:34]: [WorldSimActual::DrawRoads] complete
+[00:34:34]: Encoding...	
+[00:34:35]: Encoding... DONE	
+[00:34:35]: Checking Tags	
+[00:34:35]: Populating voronoi...	
+[00:34:35]: Warning! Could not find a spot for MooseNest in node For a nice walk:4:DeepForest	
+[00:34:35]: Warning! Could not find a spot for Ice Hounds in node Beeeees!:2:BeeClearing	
+[00:34:35]: disconnected tiles...	0	
+[00:34:35]: Done forest map gen!	
+[00:34:35]: Checking map...	
+[00:34:35]: Generation complete	
+[00:34:35]: WorldSim::SimThread::Main() complete
+[00:34:35]: Serializing world: session/749A2CFDC2D5EC08/0000000002
+[00:34:35]: 	BE assets already loaded	
+[00:34:36]: Begin Session: 749A2CFDC2D5EC08
+[00:34:36]: Stomping previously assigned session identifier, two loads issued.
+[00:34:36]: saving to server_temp/server_save	
+[00:34:36]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
+[00:34:37]: Loading Nav Grid	
+[00:34:40]: Reconstructing topology	
+[00:34:40]: 	...Sorting points	
+[00:34:40]: 	...Sorting edges	
+[00:34:40]: 	...Connecting nodes	
+[00:34:40]: 	...Validating connections	
+[00:34:40]: 	...Housekeeping	
+[00:34:40]: 	...Done!	
+[00:34:40]: Halloween Trinkets added: 84	
+[00:34:40]: 1 uploads added to server. From server_temp
+[00:34:40]: Telling Client our new session identifier: 749A2CFDC2D5EC08
+[00:34:40]: [Shard] Slave Caves(3350828721) ready!
+[00:34:40]: World 3350828721 is now connected	
+[00:34:40]: Validating portal[1] <-> 3350828721[1] (disabled)	
+[00:34:40]: Validating portal[2] <-> 3350828721[2] (disabled)	
+[00:34:40]: Validating portal[3] <-> 3350828721[3] (disabled)	
+[00:34:40]: Validating portal[4] <-> 3350828721[4] (disabled)	
+[00:34:40]: Validating portal[5] <-> 3350828721[5] (disabled)	
+[00:34:40]: Validating portal[6] <-> 3350828721[6] (disabled)	
+[00:34:40]: Validating portal[7] <-> 3350828721[7] (disabled)	
+[00:34:40]: Validating portal[8] <-> 3350828721[8] (disabled)	
+[00:34:40]: Validating portal[9] <-> 3350828721[9] (disabled)	
+[00:34:40]: Validating portal[10] <-> 3350828721[10] (disabled)	
+[00:34:40]: Sim paused
+[00:34:43]: Restarting player migration on master server
+[00:34:43]: [Shard] Read save location file for (KU_jos6C9p8)
+[00:34:43]: Resuming user: session/749A2CFDC2D5EC08/KU_jos6C9p8_
+[00:34:43]: Restarting player migration on master server
+[00:34:43]: [Shard] Read save location file for (KU_rk-3Nanr)
+[00:34:43]: Resuming user: session/749A2CFDC2D5EC08/KU_rk-3Nanr_
+[00:34:50]: Restarting player migration on master server
+[00:34:50]: [Shard] Read save location file for (KU_M8T71Hq-)
+[00:34:50]: Resuming user: session/749A2CFDC2D5EC08/KU_M8T71Hq-_
+[00:34:52]: Spawn request: wickerbottom from Poppo
+[00:34:52]: Skin request: (wickerbottom_lightninggoat) () (hand_waxwell_formal) (legs_skirt_basic_black_scribble) ()
+[00:34:52]: Spawning player at: [Fixed] (-422.00, 0.00, -94.00)	
+[00:34:52]: Serializing user: session/749A2CFDC2D5EC08/KU_rk-3Nanr_/0000000003
+[00:34:52]: Sim unpaused
+[00:34:57]: [Steam] SendUserDisconnect for '76561198009456580'
+[00:34:57]: [Shard] (KU_jos6C9p8) disconnected from [SHDMASTER](1)
+[00:34:57]: [Steam] SendUserDisconnect for '76561198015815756'
+[00:34:57]: [Shard] (KU_rk-3Nanr) disconnected from [SHDMASTER](1)
+[00:34:58]: Serializing user: session/749A2CFDC2D5EC08/KU_rk-3Nanr_/0000000003
+[00:34:58]: Sim paused
+[00:35:03]: [Steam] SendUserDisconnect for '76561197999080951'
+[00:35:03]: [Shard] (KU_M8T71Hq-) disconnected from [SHDMASTER](1)

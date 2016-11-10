@@ -1,0 +1,9 @@
+[00:01:07]: [Join Announcement] Giggi Bombatomica
+[00:01:07]: [Join Announcement] Poppo
+[00:01:24]: [Join Announcement] Druigant
+[00:31:42]: [Death Announcement] Giggi Bombatomica was killed by Terrorbeak. They became a spooky ghost!
+[00:33:42]: [Death Announcement] Druigant was killed by Beefalo. He became a spooky ghost!
+[00:34:28]: [Death Announcement] Poppo was killed by Beefalo. She became a spooky ghost!
+[00:34:57]: [Leave Announcement] Giggi Bombatomica
+[00:34:57]: [Leave Announcement] Poppo
+[00:35:03]: [Leave Announcement] Druigant
