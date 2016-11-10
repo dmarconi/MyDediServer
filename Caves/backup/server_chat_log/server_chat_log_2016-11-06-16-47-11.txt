@@ -1,9 +1,0 @@
-[00:01:34]: [Join Announcement] Poppo
-[00:02:10]: [Join Announcement] Giggi Bombatomica
-[00:02:41]: [Join Announcement] Druigant
-[00:08:25]: [Skin Announcement] Giggi Bombatomica body_buttons_white_ghost
-[00:26:22]: [Death Announcement] Poppo was killed by Darkness. She became a spooky ghost!
-[00:31:28]: [Resurrect Announcement] Poppo was resurrected by Druigant.
-[00:35:38]: [Leave Announcement] Poppo
-[00:35:39]: [Leave Announcement] Druigant
-[00:35:47]: [Leave Announcement] Giggi Bombatomica

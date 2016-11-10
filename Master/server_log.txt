@@ -1,11 +1,11 @@
-[00:00:00]: 
+[00:00:00]:
 System Memory:
 	Memory Load: 52%
 	Available Physical Memory: 3865m/8125m
 	Available Page File: 11126m/17341m
 	Available Virtual Memory: 3998m/4095m
 	Available Extended Virtual Memory: 0m
-[00:00:00]: 
+[00:00:00]:
 Process Memory:
 	Peak Working Set Size: 10m
 	Working Set Size: 10m
@@ -15,7 +15,7 @@ Process Memory:
 	Quota Non Paged Pool Usage: 14k
 	Page File Usage: 3m
 	Peak Page File Usage: 3m
-[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/MyDediServer/Master/ 
+[00:00:00]: PersistRootStorage is now APP:Klei//DoNotStarveTogether/MyDediServer/Master/
 [00:00:00]: Starting Up
 [00:00:00]: Version: 196113
 [00:00:00]: Current time: Thu Nov 10 17:54:00 2016
@@ -23,7 +23,7 @@ Process Memory:
 [00:00:00]: Don't Starve Together: 196113 WIN32
 [00:00:00]: Build Date: 1509
 [00:00:00]: Parsing command line
-[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -shard Master 
+[00:00:00]: Command Line Arguments: -console -cluster MyDediServer -shard Master
 [00:00:00]: [WARNING] -console has been deprecated: Use the [MISC] / console_enabled setting instead.
 [00:00:00]: Initializing distribution platform
 [00:00:00]: Initializing Minidump handler
@@ -46,20 +46,20 @@ Process Memory:
 [00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
 [00:00:00]: Token retrieved from: APP:Klei//DoNotStarveTogether/MyDediServer/cluster_token.txt
 [00:00:00]: HardwareStats:
-  OS                        
+  OS
     name                      Microsoft Windows 10 Pro
     version                   10.0.14393
     architecture              64-bit
     platformSpecific          SP 0.0
-  CPU                       
+  CPU
     numCores                  4
     features                  SSE,SSE2,SSE3,SSSE3,SSE41,SSE42,AVX
     name                      Intel(R) Core(TM) i7-4790 CPU @ 3.60GHz
     manufacturer              GenuineIntel
     clockSpeed                3601
-  RAM                       
+  RAM
     megsOfRam                 8192
-  GPU                       
+  GPU
     name                      NVIDIA GeForce GTX 970
     driverDate                20161025000000.000000-000
     megsOfRam                 4095
@@ -72,33 +72,33 @@ Process Memory:
 [00:00:00]: AnimManager initialize: Okay
 [00:00:00]: Buffers initialize: Okay
 [00:00:00]: cDontStarveGame::DoGameSpecificInitialize()
-[00:00:00]: FMOD Error: An invalid object handle was used. 
+[00:00:00]: FMOD Error: An invalid object handle was used.
 [00:00:00]: GameSpecific initialize: Okay
 [00:00:00]: cGame::StartPlaying
 [00:00:00]: LOADING LUA
 [00:00:00]: DoLuaFile scripts/main.lua
 [00:00:00]: DoLuaFile loading buffer scripts/main.lua
 [00:00:01]: running main.lua
-	
-[00:00:01]: loaded modindex	
+
+[00:00:01]: loaded modindex
 [00:00:01]: ModIndex: Beginning normal load sequence for dedicated server.
-	
+
 [00:00:01]: DownloadMods(0)
-[00:00:01]: FMOD Error: An invalid object handle was used. 
+[00:00:01]: FMOD Error: An invalid object handle was used.
 [00:00:02]: LOADING LUA SUCCESS
-[00:00:02]: PlayerDeaths could not load morgue	
-[00:00:02]: PlayerHistory could not load player_history	
-[00:00:02]: bloom_enabled	false	
-[00:00:02]: loaded saveindex	
-[00:00:02]: OnFilesLoaded()	
-[00:00:02]: OnUpdatePurchaseStateComplete	
-[00:00:06]: 	Load FE	
-[00:00:07]: 	Load FE: done	
-[00:00:07]: ModIndex: Load sequence finished successfully.	
+[00:00:02]: PlayerDeaths could not load morgue
+[00:00:02]: PlayerHistory could not load player_history
+[00:00:02]: bloom_enabled	false
+[00:00:02]: loaded saveindex
+[00:00:02]: OnFilesLoaded()
+[00:00:02]: OnUpdatePurchaseStateComplete
+[00:00:06]: 	Load FE
+[00:00:07]: 	Load FE: done
+[00:00:07]: ModIndex: Load sequence finished successfully.
 [00:00:07]: Reset() returning
 [00:00:07]: [200] Account Communication Success (6)
 [00:00:07]: Received (KU_jos6C9p8) from TokenPurpose
-[00:00:07]: Starting Dedicated Server Game	
+[00:00:07]: Starting Dedicated Server Game
 [00:00:07]: Network tick rate: U=15(2), D=0
 [00:00:07]: About to start a server with the following settings:
 [00:00:07]:   Dedicated: true
@@ -116,12 +116,12 @@ Process Memory:
 [00:00:07]:   PVP: false
 [00:00:07]:   MaxPlayers: 6
 [00:00:07]:   GameMode: survival
-[00:00:07]:   OverridenDNS: 
+[00:00:07]:   OverridenDNS:
 [00:00:07]:   PauseWhenEmpty: true
 [00:00:07]:   VoteEnabled: true
 [00:00:07]:   InternetBroadcasting: true
 [00:00:07]:   Intent: cooperative
-[00:00:07]: [Warning] Could not confirm port 11000 is open in the firewall. 
+[00:00:07]: [Warning] Could not confirm port 11000 is open in the firewall.
 [00:00:07]: Online Server Started on port: 11000
 [00:00:07]: Collecting garbage...
 [00:00:07]: lua_gc took 0.02 seconds
@@ -138,36 +138,36 @@ Process Memory:
 [00:00:07]: DoLuaFile scripts/main.lua
 [00:00:07]: DoLuaFile loading buffer scripts/main.lua
 [00:00:08]: running main.lua
-	
-[00:00:08]: loaded modindex	
+
+[00:00:08]: loaded modindex
 [00:00:08]: ModIndex: Beginning normal load sequence for dedicated server.
-	
+
 [00:00:08]: LOADING LUA SUCCESS
-[00:00:08]: PlayerDeaths could not load morgue	
-[00:00:08]: PlayerHistory could not load player_history	
-[00:00:08]: bloom_enabled	false	
-[00:00:08]: loaded saveindex	
-[00:00:08]: OnFilesLoaded()	
-[00:00:08]: OnUpdatePurchaseStateComplete	
-[00:00:08]: 	Unload FE	
-[00:00:08]: 	Unload FE done	
-[00:00:08]: 	LOAD BE	
+[00:00:08]: PlayerDeaths could not load morgue
+[00:00:08]: PlayerHistory could not load player_history
+[00:00:08]: bloom_enabled	false
+[00:00:08]: loaded saveindex
+[00:00:08]: OnFilesLoaded()
+[00:00:08]: OnUpdatePurchaseStateComplete
+[00:00:08]: 	Unload FE
+[00:00:08]: 	Unload FE done
+[00:00:08]: 	LOAD BE
 [00:00:09]: AddPortMapping(11000, 11000, 192.168.178.154) failed with code 403 (UnknownError)
 [00:00:09]: AddPortMapping(11000, 11000, 192.168.178.154) failed with code 403 (UnknownError)
-[00:00:10]: 	LOAD BE: done	
-[00:00:10]: Loading world: session/749A2CFDC2D5EC08/0000000002	
-[00:00:10]: Save file is at version 4.3	
+[00:00:10]: 	LOAD BE: done
+[00:00:10]: Loading world: session/749A2CFDC2D5EC08/0000000002
+[00:00:10]: Save file is at version 4.3
 [00:00:10]: Begin Session: 749A2CFDC2D5EC08
-[00:00:10]: saving to server_temp/server_save	
+[00:00:10]: saving to server_temp/server_save
 [00:00:10]: MiniMapComponent::AddAtlas( minimap/minimap_data.xml )
-[00:00:11]: Loading Nav Grid	
-[00:00:13]: Reconstructing topology	
-[00:00:13]: 	...Sorting points	
-[00:00:13]: 	...Sorting edges	
-[00:00:13]: 	...Connecting nodes	
-[00:00:13]: 	...Validating connections	
-[00:00:13]: 	...Housekeeping	
-[00:00:13]: 	...Done!	
+[00:00:11]: Loading Nav Grid
+[00:00:13]: Reconstructing topology
+[00:00:13]: 	...Sorting points
+[00:00:13]: 	...Sorting edges
+[00:00:13]: 	...Connecting nodes
+[00:00:13]: 	...Validating connections
+[00:00:13]: 	...Housekeeping
+[00:00:13]: 	...Done!
 [00:00:13]: Truncating to snapshot #2...
 [00:00:13]:  - session/749A2CFDC2D5EC08/KU_rk-3Nanr_/0000000003
 [00:00:13]:    1 file(s) removed
@@ -180,37 +180,37 @@ Process Memory:
 [00:00:13]:   MasterBind: 127.0.0.1
 [00:00:13]:   MasterPort: 10889
 [00:00:13]: [Shard] Starting master server
-[00:00:13]: [Warning] Could not confirm port 10889 is open in the firewall. 
+[00:00:13]: [Warning] Could not confirm port 10889 is open in the firewall.
 [00:00:13]: [Shard] Shard server started on port: 10889
 [00:00:13]: Telling Client our new session identifier: 749A2CFDC2D5EC08
-[00:00:13]: ModIndex: Load sequence finished successfully.	
+[00:00:13]: ModIndex: Load sequence finished successfully.
 [00:00:13]: Reset() returning
 [00:00:13]: [Steam] SteamGameServer_Init(8768, 11000, 27018)
 [00:00:15]: [Steam] SteamGameServer_Init success
-[00:00:15]: Validating portal[1] <-> <nil>[1] (inactive)	
-[00:00:15]: Validating portal[2] <-> <nil>[2] (inactive)	
-[00:00:15]: Validating portal[3] <-> <nil>[3] (inactive)	
-[00:00:15]: Validating portal[4] <-> <nil>[4] (inactive)	
-[00:00:15]: Validating portal[5] <-> <nil>[5] (inactive)	
-[00:00:15]: Validating portal[6] <-> <nil>[6] (inactive)	
-[00:00:15]: Validating portal[7] <-> <nil>[7] (inactive)	
-[00:00:15]: Validating portal[8] <-> <nil>[8] (inactive)	
-[00:00:15]: Validating portal[9] <-> <nil>[9] (inactive)	
-[00:00:15]: Validating portal[10] <-> <nil>[10] (inactive)	
+[00:00:15]: Validating portal[1] <-> <nil>[1] (inactive)
+[00:00:15]: Validating portal[2] <-> <nil>[2] (inactive)
+[00:00:15]: Validating portal[3] <-> <nil>[3] (inactive)
+[00:00:15]: Validating portal[4] <-> <nil>[4] (inactive)
+[00:00:15]: Validating portal[5] <-> <nil>[5] (inactive)
+[00:00:15]: Validating portal[6] <-> <nil>[6] (inactive)
+[00:00:15]: Validating portal[7] <-> <nil>[7] (inactive)
+[00:00:15]: Validating portal[8] <-> <nil>[8] (inactive)
+[00:00:15]: Validating portal[9] <-> <nil>[9] (inactive)
+[00:00:15]: Validating portal[10] <-> <nil>[10] (inactive)
 [00:00:15]: Sim paused
 [00:00:16]: [Shard] Slave Caves(3350828721) connected: [LAN] 127.0.0.1
 [00:00:17]: [Shard] Slave Caves(3350828721) ready!
-[00:00:17]: World 3350828721 is now connected	
-[00:00:17]: Validating portal[1] <-> 3350828721[1] (disabled)	
-[00:00:17]: Validating portal[2] <-> 3350828721[2] (disabled)	
-[00:00:17]: Validating portal[3] <-> 3350828721[3] (disabled)	
-[00:00:17]: Validating portal[4] <-> 3350828721[4] (disabled)	
-[00:00:17]: Validating portal[5] <-> 3350828721[5] (disabled)	
-[00:00:17]: Validating portal[6] <-> 3350828721[6] (disabled)	
-[00:00:17]: Validating portal[7] <-> 3350828721[7] (disabled)	
-[00:00:17]: Validating portal[8] <-> 3350828721[8] (disabled)	
-[00:00:17]: Validating portal[9] <-> 3350828721[9] (disabled)	
-[00:00:17]: Validating portal[10] <-> 3350828721[10] (disabled)	
+[00:00:17]: World 3350828721 is now connected
+[00:00:17]: Validating portal[1] <-> 3350828721[1] (disabled)
+[00:00:17]: Validating portal[2] <-> 3350828721[2] (disabled)
+[00:00:17]: Validating portal[3] <-> 3350828721[3] (disabled)
+[00:00:17]: Validating portal[4] <-> 3350828721[4] (disabled)
+[00:00:17]: Validating portal[5] <-> 3350828721[5] (disabled)
+[00:00:17]: Validating portal[6] <-> 3350828721[6] (disabled)
+[00:00:17]: Validating portal[7] <-> 3350828721[7] (disabled)
+[00:00:17]: Validating portal[8] <-> 3350828721[8] (disabled)
+[00:00:17]: Validating portal[9] <-> 3350828721[9] (disabled)
+[00:00:17]: Validating portal[10] <-> 3350828721[10] (disabled)
 [00:01:06]: New incoming connection 192.168.178.154|49264 <273388300086786639>
 [00:01:06]: Client connected from [LAN] 192.168.178.154|49264 <273388300086786639>
 [00:01:06]: ValidateGameSessionToken pgs-usc^KU_jos6C9p8^DontStarveTogether^52GFUntgkkIo0oOIZL391yt9SohLPoZLMFtZjWExWzQ= for <273388300086786639>
@@ -232,12 +232,12 @@ Process Memory:
 [00:02:43]: Resuming user: session/749A2CFDC2D5EC08/KU_9J1L0NCE_
 [00:04:17]: Spawn request: wickerbottom from Aramills
 [00:04:17]: Skin request: (wickerbottom_none) () () (legs_tweed_knickerbocker_green_hunters) ()
-[00:04:17]: Spawning player at: [Fixed] (-422.00, 0.00, -94.00)	
+[00:04:17]: Spawning player at: [Fixed] (-422.00, 0.00, -94.00)
 [00:04:17]: Serializing user: session/749A2CFDC2D5EC08/KU_9J1L0NCE_/0000000003
 [00:04:17]: Sim unpaused
 [00:04:20]: Spawn request: wilson from Giggi Bombatomica
 [00:04:20]: Skin request: (wilson_none) (body_glommer_costume) () () ()
-[00:04:21]: Spawning player at: [Fixed] (-422.00, 0.00, -94.00)	
+[00:04:21]: Spawning player at: [Fixed] (-422.00, 0.00, -94.00)
 [00:04:21]: Serializing user: session/749A2CFDC2D5EC08/KU_jos6C9p8_/0000000003
 [00:12:18]: Serializing user: session/749A2CFDC2D5EC08/KU_9J1L0NCE_/0000000003
 [00:12:18]: Serializing user: session/749A2CFDC2D5EC08/KU_jos6C9p8_/0000000003
@@ -275,17 +275,17 @@ Process Memory:
 [01:08:49]: [Shard] (KU_jos6C9p8) disconnected from [SHDMASTER](1)
 [01:08:49]: Serializing user: session/749A2CFDC2D5EC08/KU_jos6C9p8_/0000000011
 [01:08:49]: Sim paused
-[01:09:35]: World 3350828721 is now disconnected	
-[01:09:35]: Validating portal[1] <-> 3350828721[1] (inactive)	
-[01:09:35]: Validating portal[2] <-> 3350828721[2] (inactive)	
-[01:09:35]: Validating portal[3] <-> 3350828721[3] (inactive)	
-[01:09:35]: Validating portal[4] <-> 3350828721[4] (inactive)	
-[01:09:35]: Validating portal[5] <-> 3350828721[5] (inactive)	
-[01:09:35]: Validating portal[6] <-> 3350828721[6] (inactive)	
-[01:09:35]: Validating portal[7] <-> 3350828721[7] (inactive)	
-[01:09:35]: Validating portal[8] <-> 3350828721[8] (inactive)	
-[01:09:35]: Validating portal[9] <-> 3350828721[9] (inactive)	
-[01:09:35]: Validating portal[10] <-> 3350828721[10] (inactive)	
+[01:09:35]: World 3350828721 is now disconnected
+[01:09:35]: Validating portal[1] <-> 3350828721[1] (inactive)
+[01:09:35]: Validating portal[2] <-> 3350828721[2] (inactive)
+[01:09:35]: Validating portal[3] <-> 3350828721[3] (inactive)
+[01:09:35]: Validating portal[4] <-> 3350828721[4] (inactive)
+[01:09:35]: Validating portal[5] <-> 3350828721[5] (inactive)
+[01:09:35]: Validating portal[6] <-> 3350828721[6] (inactive)
+[01:09:35]: Validating portal[7] <-> 3350828721[7] (inactive)
+[01:09:35]: Validating portal[8] <-> 3350828721[8] (inactive)
+[01:09:35]: Validating portal[9] <-> 3350828721[9] (inactive)
+[01:09:35]: Validating portal[10] <-> 3350828721[10] (inactive)
 [01:09:35]: [Shard] A slave has disconnected: 'Caves(3350828721)'
 [01:09:37]: Serializing world: session/749A2CFDC2D5EC08/0000000011
 [01:09:37]: Truncating to snapshot #11...
