@@ -383,3 +383,20 @@
 [00:02:22]: [Shard] (KU_jos6C9p8) disconnected from [SHDMASTER](1)
 [00:02:23]: Serializing user: session/749A2CFDC2D5EC08/KU_jos6C9p8_/0000000026
 [00:02:23]: Sim paused
+[00:04:37]: New incoming connection 192.168.178.36|63032 <6418668515694989948>
+[00:04:37]: Client connected from [LAN] 192.168.178.36|63032 <6418668515694989948>
+[00:04:37]: ValidateGameSessionToken pgs-usc^KU_jos6C9p8^DontStarveTogether^agDvxQi0XzXj1sT3LTW3XkLLrKNI/wXIy7BVAJdLgFA= for <6418668515694989948>
+[00:04:38]: Client authenticated: (KU_jos6C9p8) JJ Bombatomica
+[00:04:38]: [Steam] Authenticated host '76561198009456580'
+[00:04:39]: [Shard] Read save location file for (KU_jos6C9p8)
+[00:04:48]: Resuming user: session/749A2CFDC2D5EC08/KU_jos6C9p8_/0000000026
+[00:04:48]: Spawning player at: [Load] (-22.10, 0.00, 293.62)	
+[00:04:48]: Sim unpaused
+[00:07:15]: Serializing user: session/749A2CFDC2D5EC08/KU_jos6C9p8_/0000000026
+[00:07:15]: Serializing world: session/749A2CFDC2D5EC08/0000000026
+[00:15:15]: Serializing user: session/749A2CFDC2D5EC08/KU_jos6C9p8_/0000000027
+[00:15:16]: Serializing world: session/749A2CFDC2D5EC08/0000000027
+[00:15:59]: [Steam] SendUserDisconnect for '76561198009456580'
+[00:15:59]: [Shard] (KU_jos6C9p8) disconnected from [SHDMASTER](1)
+[00:15:59]: Serializing user: session/749A2CFDC2D5EC08/KU_jos6C9p8_/0000000028
+[00:15:59]: Sim paused

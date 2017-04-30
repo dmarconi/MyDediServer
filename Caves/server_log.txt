@@ -387,3 +387,13 @@
 [00:02:20]: Validating portal[2] <-> 1[2] (active)	
 [00:02:20]: Validating portal[3] <-> 1[3] (active)	
 [00:02:23]: Sim paused
+[00:04:48]: Sim unpaused
+[00:07:15]: Serializing world: session/6D8534A0707FDE34/0000000026
+[00:07:15]: Truncating to snapshot #26...
+[00:07:15]:  - session/6D8534A0707FDE34/0000000020
+[00:07:15]:    1 file(s) removed
+[00:15:16]: Serializing world: session/6D8534A0707FDE34/0000000027
+[00:15:16]: Truncating to snapshot #27...
+[00:15:16]:  - session/6D8534A0707FDE34/0000000021
+[00:15:16]:    1 file(s) removed
+[00:15:59]: Sim paused

@@ -7,3 +7,5 @@
 [00:01:37]: [Announcement] World will reload in 10 seconds to complete retrofitting.
 [00:01:42]: [Announcement] World will reload in 5 seconds to complete retrofitting.
 [00:02:23]: [Leave Announcement] JJ Bombatomica
+[00:04:47]: [Join Announcement] JJ Bombatomica
+[00:15:59]: [Leave Announcement] JJ Bombatomica
