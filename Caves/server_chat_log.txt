@@ -1,0 +1,9 @@
+[00:01:09]: [Join Announcement] JJ Bombatomica
+[00:01:12]: [Announcement] World will reload in 35 seconds to complete retrofitting.
+[00:01:17]: [Announcement] World will reload in 30 seconds to complete retrofitting.
+[00:01:22]: [Announcement] World will reload in 25 seconds to complete retrofitting.
+[00:01:27]: [Announcement] World will reload in 20 seconds to complete retrofitting.
+[00:01:32]: [Announcement] World will reload in 15 seconds to complete retrofitting.
+[00:01:37]: [Announcement] World will reload in 10 seconds to complete retrofitting.
+[00:01:42]: [Announcement] World will reload in 5 seconds to complete retrofitting.
+[00:02:23]: [Leave Announcement] JJ Bombatomica
